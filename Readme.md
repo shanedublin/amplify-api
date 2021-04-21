@@ -10,3 +10,5 @@ docker build -t rushanedublin/amplify-api .
 
 docker-compose up
 
+## Notes  
+Make sure you change the ip and the password in the  `.env` file or this will not work
