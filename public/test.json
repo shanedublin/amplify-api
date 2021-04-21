@@ -1,0 +1,3443 @@
+[
+    {
+        "74:ac:b9:38:3a:19": {
+            "cost": 0,
+            "friendly_name": "AlienAmp",
+            "ip": "192.168.182.1",
+            "level": 1,
+            "mac": "74:ac:b9:38:3a:19",
+            "platform_name": "AFi-ALN-R",
+            "protocol": 116,
+            "role": "Router",
+            "uptime": 335266
+        }
+    },
+    {
+        "74:ac:b9:38:3a:19": {
+            "2.4 GHz": {
+                "User network": {
+                    "08:5b:d6:82:1b:67": {
+                        "Address": "192.168.182.218",
+                        "HappinessScore": 90,
+                        "HostName": "SHANE-I7",
+                        "Inactive": 0,
+                        "LeaseValidity": 41567,
+                        "MaxBandwidth": 20,
+                        "MaxSpatialStreams": 2,
+                        "Mode": "802.11ax",
+                        "RxBitrate": 34400,
+                        "RxBytes": 118414948,
+                        "RxBytes_15sec": 8060,
+                        "RxBytes_30sec": 52164,
+                        "RxBytes_5sec": 2980,
+                        "RxBytes_60sec": 83467,
+                        "RxMcs": 6,
+                        "RxMhz": 20,
+                        "SignalQuality": 100,
+                        "TxBitrate": 216700,
+                        "TxBytes": 127862382,
+                        "TxBytes_15sec": 23815,
+                        "TxBytes_30sec": 52673,
+                        "TxBytes_5sec": 8873,
+                        "TxBytes_60sec": 107443,
+                        "TxMcs": 11,
+                        "TxMhz": 20
+                    },
+                    "24:62:ab:35:cf:23": {
+                        "Address": "192.168.182.157",
+                        "HappinessScore": 85,
+                        "HostName": "LH_LB_28-3875",
+                        "Inactive": 0,
+                        "LeaseValidity": 39152,
+                        "MaxBandwidth": 20,
+                        "MaxSpatialStreams": 1,
+                        "Mode": "802.11g",
+                        "RxBitrate": 72200,
+                        "RxBytes": 1200664,
+                        "RxBytes_30sec": 110,
+                        "RxBytes_60sec": 280,
+                        "RxMcs": 7,
+                        "RxMhz": 20,
+                        "SignalQuality": 53,
+                        "TxBitrate": 58500,
+                        "TxBytes": 2736130,
+                        "TxBytes_30sec": 176,
+                        "TxBytes_60sec": 328,
+                        "TxMcs": 6,
+                        "TxMhz": 20
+                    },
+                    "24:62:ab:35:d1:2c": {
+                        "Address": "192.168.182.147",
+                        "HappinessScore": 85,
+                        "HostName": "LH_LB_08-4396",
+                        "Inactive": 0,
+                        "LeaseValidity": 34886,
+                        "MaxBandwidth": 20,
+                        "MaxSpatialStreams": 1,
+                        "Mode": "802.11g",
+                        "RxBitrate": 72200,
+                        "RxBytes": 28235054,
+                        "RxBytes_15sec": 2945,
+                        "RxBytes_30sec": 5946,
+                        "RxBytes_5sec": 1178,
+                        "RxBytes_60sec": 11892,
+                        "RxMcs": 7,
+                        "RxMhz": 20,
+                        "SignalQuality": 56,
+                        "TxBitrate": 58500,
+                        "TxBytes": 27063740,
+                        "TxBytes_15sec": 2915,
+                        "TxBytes_30sec": 5940,
+                        "TxBytes_5sec": 1166,
+                        "TxBytes_60sec": 11948,
+                        "TxMcs": 6,
+                        "TxMhz": 20
+                    },
+                    "24:62:ab:35:d4:21": {
+                        "Address": "192.168.182.215",
+                        "HappinessScore": 85,
+                        "HostName": "LH_LB_32-5153",
+                        "Inactive": 0,
+                        "LeaseValidity": 39149,
+                        "MaxBandwidth": 20,
+                        "MaxSpatialStreams": 1,
+                        "Mode": "802.11g",
+                        "RxBitrate": 72200,
+                        "RxBytes": 1204666,
+                        "RxBytes_30sec": 56,
+                        "RxBytes_60sec": 166,
+                        "RxMcs": 7,
+                        "RxMhz": 20,
+                        "SignalQuality": 59,
+                        "TxBitrate": 58500,
+                        "TxBytes": 2724143,
+                        "TxBytes_30sec": 110,
+                        "TxBytes_60sec": 286,
+                        "TxMcs": 6,
+                        "TxMhz": 20
+                    },
+                    "24:62:ab:35:d5:ff": {
+                        "Address": "192.168.182.233",
+                        "HappinessScore": 85,
+                        "HostName": "LH_LB_17-5631",
+                        "Inactive": 0,
+                        "LeaseValidity": 42756,
+                        "MaxBandwidth": 20,
+                        "MaxSpatialStreams": 1,
+                        "Mode": "802.11g",
+                        "RxBitrate": 72200,
+                        "RxBytes": 371213,
+                        "RxBytes_15sec": 56,
+                        "RxBytes_30sec": 56,
+                        "RxBytes_5sec": 56,
+                        "RxBytes_60sec": 166,
+                        "RxMcs": 7,
+                        "RxMhz": 20,
+                        "SignalQuality": 89,
+                        "TxBitrate": 58500,
+                        "TxBytes": 764395,
+                        "TxBytes_15sec": 177,
+                        "TxBytes_30sec": 177,
+                        "TxBytes_5sec": 110,
+                        "TxBytes_60sec": 287,
+                        "TxMcs": 6,
+                        "TxMhz": 20
+                    },
+                    "24:62:ab:36:29:3d": {
+                        "Address": "192.168.182.241",
+                        "HappinessScore": 85,
+                        "HostName": "LH_LB_29-2365",
+                        "Inactive": 0,
+                        "LeaseValidity": 35556,
+                        "MaxBandwidth": 20,
+                        "MaxSpatialStreams": 1,
+                        "Mode": "802.11g",
+                        "RxBitrate": 72200,
+                        "RxBytes": 1118041,
+                        "RxBytes_30sec": 110,
+                        "RxBytes_60sec": 274,
+                        "RxMcs": 7,
+                        "RxMhz": 20,
+                        "SignalQuality": 53,
+                        "TxBitrate": 58500,
+                        "TxBytes": 2532525,
+                        "TxBytes_30sec": 176,
+                        "TxBytes_60sec": 700,
+                        "TxMcs": 6,
+                        "TxMhz": 20
+                    },
+                    "24:62:ab:36:2a:db": {
+                        "Address": "192.168.182.206",
+                        "HappinessScore": 85,
+                        "HostName": "LH_LB_30-2779",
+                        "Inactive": 0,
+                        "LeaseValidity": 42757,
+                        "MaxBandwidth": 20,
+                        "MaxSpatialStreams": 1,
+                        "Mode": "802.11g",
+                        "RxBitrate": 72200,
+                        "RxBytes": 415539,
+                        "RxBytes_30sec": 170,
+                        "RxBytes_60sec": 280,
+                        "RxMcs": 7,
+                        "RxMhz": 20,
+                        "SignalQuality": 54,
+                        "TxBitrate": 58500,
+                        "TxBytes": 954306,
+                        "TxBytes_30sec": 152,
+                        "TxBytes_60sec": 328,
+                        "TxMcs": 6,
+                        "TxMhz": 20
+                    },
+                    "24:62:ab:36:2c:0b": {
+                        "Address": "192.168.182.248",
+                        "HappinessScore": 85,
+                        "HostName": "LH_LB_7-3083",
+                        "Inactive": 0,
+                        "LeaseValidity": 39156,
+                        "MaxBandwidth": 20,
+                        "MaxSpatialStreams": 1,
+                        "Mode": "802.11g",
+                        "RxBitrate": 72200,
+                        "RxBytes": 1467634,
+                        "RxBytes_15sec": 60,
+                        "RxBytes_30sec": 170,
+                        "RxBytes_60sec": 280,
+                        "RxMcs": 7,
+                        "RxMhz": 20,
+                        "SignalQuality": 60,
+                        "TxBitrate": 58500,
+                        "TxBytes": 2991665,
+                        "TxBytes_15sec": 42,
+                        "TxBytes_30sec": 152,
+                        "TxBytes_60sec": 330,
+                        "TxMcs": 6,
+                        "TxMhz": 20
+                    },
+                    "24:62:ab:36:2d:23": {
+                        "Address": "192.168.182.224",
+                        "HappinessScore": 85,
+                        "HostName": "LH_LB_33-3363",
+                        "Inactive": 0,
+                        "LeaseValidity": 39153,
+                        "MaxBandwidth": 20,
+                        "MaxSpatialStreams": 1,
+                        "Mode": "802.11g",
+                        "RxBitrate": 72200,
+                        "RxBytes": 1207804,
+                        "RxBytes_15sec": 110,
+                        "RxBytes_30sec": 110,
+                        "RxBytes_60sec": 280,
+                        "RxMcs": 7,
+                        "RxMhz": 20,
+                        "SignalQuality": 71,
+                        "TxBitrate": 58500,
+                        "TxBytes": 2721774,
+                        "TxBytes_15sec": 156,
+                        "TxBytes_30sec": 156,
+                        "TxBytes_5sec": 46,
+                        "TxBytes_60sec": 374,
+                        "TxMcs": 6,
+                        "TxMhz": 20
+                    },
+                    "24:62:ab:36:2d:39": {
+                        "Address": "192.168.182.239",
+                        "HappinessScore": 85,
+                        "HostName": "LH_LB_24-3385",
+                        "Inactive": 0,
+                        "LeaseValidity": 39156,
+                        "MaxBandwidth": 20,
+                        "MaxSpatialStreams": 1,
+                        "Mode": "802.11g",
+                        "RxBitrate": 72200,
+                        "RxBytes": 1198311,
+                        "RxBytes_15sec": 60,
+                        "RxBytes_30sec": 170,
+                        "RxBytes_60sec": 280,
+                        "RxMcs": 7,
+                        "RxMhz": 20,
+                        "SignalQuality": 61,
+                        "TxBitrate": 58500,
+                        "TxBytes": 2733942,
+                        "TxBytes_15sec": 42,
+                        "TxBytes_30sec": 152,
+                        "TxBytes_60sec": 328,
+                        "TxMcs": 6,
+                        "TxMhz": 20
+                    },
+                    "24:62:ab:41:3e:33": {
+                        "Address": "192.168.182.139",
+                        "HappinessScore": 85,
+                        "HostName": "LH_LB_22-7731",
+                        "Inactive": 0,
+                        "LeaseValidity": 39153,
+                        "MaxBandwidth": 20,
+                        "MaxSpatialStreams": 1,
+                        "Mode": "802.11g",
+                        "RxBitrate": 72200,
+                        "RxBytes": 1199157,
+                        "RxBytes_15sec": 110,
+                        "RxBytes_30sec": 110,
+                        "RxBytes_60sec": 280,
+                        "RxMcs": 7,
+                        "RxMhz": 20,
+                        "SignalQuality": 61,
+                        "TxBitrate": 58500,
+                        "TxBytes": 2726346,
+                        "TxBytes_15sec": 176,
+                        "TxBytes_30sec": 176,
+                        "TxBytes_5sec": 66,
+                        "TxBytes_60sec": 328,
+                        "TxMcs": 6,
+                        "TxMhz": 20
+                    },
+                    "24:62:ab:43:9e:88": {
+                        "Address": "192.168.182.219",
+                        "HappinessScore": 85,
+                        "HostName": "LH_LB_11-7816",
+                        "Inactive": 0,
+                        "LeaseValidity": 39158,
+                        "MaxBandwidth": 20,
+                        "MaxSpatialStreams": 1,
+                        "Mode": "802.11g",
+                        "RxBitrate": 72200,
+                        "RxBytes": 1159363,
+                        "RxBytes_15sec": 170,
+                        "RxBytes_30sec": 170,
+                        "RxBytes_60sec": 280,
+                        "RxMcs": 7,
+                        "RxMhz": 20,
+                        "SignalQuality": 61,
+                        "TxBitrate": 58500,
+                        "TxBytes": 2683681,
+                        "TxBytes_15sec": 152,
+                        "TxBytes_30sec": 220,
+                        "TxBytes_60sec": 330,
+                        "TxMcs": 6,
+                        "TxMhz": 20
+                    },
+                    "24:62:ab:49:30:66": {
+                        "Address": "192.168.182.235",
+                        "HappinessScore": 85,
+                        "HostName": "GS_DM_11-4198",
+                        "Inactive": 0,
+                        "LeaseValidity": 35546,
+                        "MaxBandwidth": 20,
+                        "MaxSpatialStreams": 1,
+                        "Mode": "802.11g",
+                        "RxBitrate": 72200,
+                        "RxBytes": 1009584,
+                        "RxBytes_30sec": 110,
+                        "RxBytes_60sec": 280,
+                        "RxMcs": 7,
+                        "RxMhz": 20,
+                        "SignalQuality": 66,
+                        "TxBitrate": 58500,
+                        "TxBytes": 1911502,
+                        "TxBytes_30sec": 110,
+                        "TxBytes_60sec": 262,
+                        "TxMcs": 6,
+                        "TxMhz": 20
+                    },
+                    "24:62:ab:4d:05:d4": {
+                        "Address": "192.168.182.225",
+                        "HappinessScore": 85,
+                        "HostName": "BN_PL_04-1492",
+                        "Inactive": 0,
+                        "LeaseValidity": 35553,
+                        "MaxBandwidth": 20,
+                        "MaxSpatialStreams": 1,
+                        "Mode": "802.11g",
+                        "RxBitrate": 72200,
+                        "RxBytes": 42091,
+                        "RxMcs": 7,
+                        "RxMhz": 20,
+                        "SignalQuality": 70,
+                        "TxBitrate": 58500,
+                        "TxBytes": 7389400,
+                        "TxBytes_15sec": 420,
+                        "TxBytes_30sec": 756,
+                        "TxBytes_60sec": 1587,
+                        "TxMcs": 6,
+                        "TxMhz": 20
+                    },
+                    "2c:f4:32:b5:7b:38": {
+                        "Address": "192.168.182.128",
+                        "HappinessScore": 85,
+                        "HostName": "LH_LB_34-6968",
+                        "Inactive": 0,
+                        "LeaseValidity": 35556,
+                        "MaxBandwidth": 20,
+                        "MaxSpatialStreams": 1,
+                        "Mode": "802.11g",
+                        "RxBitrate": 72200,
+                        "RxBytes": 1021902,
+                        "RxBytes_15sec": 56,
+                        "RxBytes_30sec": 56,
+                        "RxBytes_60sec": 172,
+                        "RxMcs": 7,
+                        "RxMhz": 20,
+                        "SignalQuality": 67,
+                        "TxBitrate": 58500,
+                        "TxBytes": 2333070,
+                        "TxBytes_15sec": 110,
+                        "TxBytes_30sec": 110,
+                        "TxBytes_60sec": 328,
+                        "TxMcs": 6,
+                        "TxMhz": 20
+                    },
+                    "2c:f4:32:c3:4c:99": {
+                        "Address": "192.168.182.236",
+                        "HappinessScore": 85,
+                        "HostName": "LH_LB_3-3225",
+                        "Inactive": 0,
+                        "LeaseValidity": 35557,
+                        "MaxBandwidth": 20,
+                        "MaxSpatialStreams": 1,
+                        "Mode": "802.11g",
+                        "RxBitrate": 72200,
+                        "RxBytes": 1005642,
+                        "RxBytes_30sec": 170,
+                        "RxBytes_60sec": 280,
+                        "RxMcs": 7,
+                        "RxMhz": 20,
+                        "SignalQuality": 64,
+                        "TxBitrate": 58500,
+                        "TxBytes": 2313041,
+                        "TxBytes_30sec": 198,
+                        "TxBytes_60sec": 374,
+                        "TxMcs": 6,
+                        "TxMhz": 20
+                    },
+                    "3e:06:f1:c9:09:70": {
+                        "Address": "192.168.182.152",
+                        "HappinessScore": 90,
+                        "HostName": "Pixel-5",
+                        "Inactive": 0,
+                        "LeaseValidity": 39182,
+                        "MaxBandwidth": 20,
+                        "MaxSpatialStreams": 2,
+                        "Mode": "802.11n",
+                        "RxBitrate": 192200,
+                        "RxBytes": 39481691,
+                        "RxBytes_30sec": 132,
+                        "RxBytes_60sec": 132,
+                        "RxMcs": 9,
+                        "RxMhz": 20,
+                        "SignalQuality": 89,
+                        "TxBitrate": 192200,
+                        "TxBytes": 2727257,
+                        "TxBytes_30sec": 78,
+                        "TxBytes_60sec": 120,
+                        "TxMcs": 9,
+                        "TxMhz": 20
+                    },
+                    "44:61:32:a1:1e:cc": {
+                        "Address": "192.168.182.229",
+                        "HappinessScore": 85,
+                        "HostName": "Thermostat",
+                        "Inactive": 0,
+                        "LeaseValidity": 32099,
+                        "MaxBandwidth": 20,
+                        "MaxSpatialStreams": 1,
+                        "Mode": "802.11n",
+                        "RxBitrate": 72200,
+                        "RxBytes": 8224476,
+                        "RxBytes_15sec": 386,
+                        "RxBytes_30sec": 386,
+                        "RxBytes_5sec": 42,
+                        "RxBytes_60sec": 2011,
+                        "RxMcs": 7,
+                        "RxMhz": 20,
+                        "SignalQuality": 90,
+                        "TxBitrate": 72200,
+                        "TxBytes": 16147240,
+                        "TxBytes_15sec": 1031,
+                        "TxBytes_30sec": 1167,
+                        "TxBytes_5sec": 148,
+                        "TxBytes_60sec": 2978,
+                        "TxMcs": 7,
+                        "TxMhz": 20
+                    },
+                    "74:58:f3:cc:a3:40": {
+                        "Address": "192.168.182.133",
+                        "HappinessScore": 85,
+                        "Inactive": 0,
+                        "LeaseValidity": 31991,
+                        "MaxBandwidth": 20,
+                        "MaxSpatialStreams": 1,
+                        "Mode": "802.11n",
+                        "RxBitrate": 72200,
+                        "RxBytes": 4294967295,
+                        "RxBytes64": 5477240215,
+                        "RxBytes_15sec": 3350,
+                        "RxBytes_30sec": 6120,
+                        "RxBytes_5sec": 834,
+                        "RxBytes_60sec": 22968,
+                        "RxMcs": 7,
+                        "RxMhz": 20,
+                        "SignalQuality": 99,
+                        "TxBitrate": 72200,
+                        "TxBytes": 247825394,
+                        "TxBytes_15sec": 5146,
+                        "TxBytes_30sec": 8636,
+                        "TxBytes_5sec": 1848,
+                        "TxBytes_60sec": 21944,
+                        "TxMcs": 7,
+                        "TxMhz": 20
+                    },
+                    "8c:18:d9:9f:11:67": {
+                        "Address": "192.168.182.234",
+                        "HappinessScore": 85,
+                        "Inactive": 0,
+                        "LeaseValidity": 42878,
+                        "MaxBandwidth": 20,
+                        "MaxSpatialStreams": 1,
+                        "Mode": "802.11n",
+                        "RxBitrate": 72200,
+                        "RxBytes": 126478,
+                        "RxMcs": 7,
+                        "RxMhz": 20,
+                        "SignalQuality": 67,
+                        "TxBitrate": 72200,
+                        "TxBytes": 217847,
+                        "TxMcs": 7,
+                        "TxMhz": 20
+                    },
+                    "90:3a:e6:33:f0:8a": {
+                        "Address": "192.168.182.203",
+                        "Description": "Tesla",
+                        "HappinessScore": 85,
+                        "Inactive": 0,
+                        "LeaseValidity": 37997,
+                        "MaxBandwidth": 20,
+                        "MaxSpatialStreams": 1,
+                        "Mode": "802.11g",
+                        "RxBitrate": 72200,
+                        "RxBytes": 1082040,
+                        "RxBytes_15sec": 108,
+                        "RxBytes_30sec": 174,
+                        "RxBytes_5sec": 42,
+                        "RxBytes_60sec": 8447,
+                        "RxMcs": 7,
+                        "RxMhz": 20,
+                        "SignalQuality": 53,
+                        "TxBitrate": 58500,
+                        "TxBytes": 4173588,
+                        "TxBytes_15sec": 108,
+                        "TxBytes_30sec": 174,
+                        "TxBytes_5sec": 42,
+                        "TxBytes_60sec": 4068,
+                        "TxMcs": 6,
+                        "TxMhz": 20
+                    },
+                    "bc:dd:c2:97:86:85": {
+                        "Address": "192.168.182.237",
+                        "HappinessScore": 85,
+                        "HostName": "LH_LBX_07-1669",
+                        "Inactive": 0,
+                        "LeaseValidity": 39146,
+                        "MaxBandwidth": 20,
+                        "MaxSpatialStreams": 1,
+                        "Mode": "802.11g",
+                        "RxBitrate": 72200,
+                        "RxBytes": 1204702,
+                        "RxBytes_30sec": 56,
+                        "RxBytes_60sec": 172,
+                        "RxMcs": 7,
+                        "RxMhz": 20,
+                        "SignalQuality": 70,
+                        "TxBitrate": 58500,
+                        "TxBytes": 2284072,
+                        "TxBytes_30sec": 110,
+                        "TxBytes_60sec": 262,
+                        "TxMcs": 6,
+                        "TxMhz": 20
+                    },
+                    "bc:dd:c2:97:86:92": {
+                        "Address": "192.168.182.156",
+                        "HappinessScore": 85,
+                        "HostName": "LH_LBX_01-1682",
+                        "Inactive": 0,
+                        "LeaseValidity": 39153,
+                        "MaxBandwidth": 20,
+                        "MaxSpatialStreams": 1,
+                        "Mode": "802.11g",
+                        "RxBitrate": 72200,
+                        "RxBytes": 1158238,
+                        "RxBytes_30sec": 56,
+                        "RxBytes_60sec": 166,
+                        "RxMcs": 7,
+                        "RxMhz": 20,
+                        "SignalQuality": 64,
+                        "TxBitrate": 58500,
+                        "TxBytes": 2280499,
+                        "TxBytes_30sec": 110,
+                        "TxBytes_60sec": 220,
+                        "TxMcs": 6,
+                        "TxMhz": 20
+                    },
+                    "bc:dd:c2:97:86:bf": {
+                        "Address": "192.168.182.121",
+                        "HappinessScore": 85,
+                        "HostName": "LH_LBX_02-1727",
+                        "Inactive": 0,
+                        "LeaseValidity": 35556,
+                        "MaxBandwidth": 20,
+                        "MaxSpatialStreams": 1,
+                        "Mode": "802.11g",
+                        "RxBitrate": 72200,
+                        "RxBytes": 1006382,
+                        "RxBytes_30sec": 56,
+                        "RxBytes_60sec": 166,
+                        "RxMcs": 7,
+                        "RxMhz": 20,
+                        "SignalQuality": 74,
+                        "TxBitrate": 58500,
+                        "TxBytes": 1984386,
+                        "TxBytes_30sec": 110,
+                        "TxBytes_60sec": 220,
+                        "TxMcs": 6,
+                        "TxMhz": 20
+                    },
+                    "bc:dd:c2:97:87:54": {
+                        "Address": "192.168.182.197",
+                        "HappinessScore": 85,
+                        "HostName": "LH_LBX_03-1876",
+                        "Inactive": 0,
+                        "LeaseValidity": 39153,
+                        "MaxBandwidth": 20,
+                        "MaxSpatialStreams": 1,
+                        "Mode": "802.11g",
+                        "RxBitrate": 72200,
+                        "RxBytes": 1156937,
+                        "RxBytes_15sec": 56,
+                        "RxBytes_30sec": 56,
+                        "RxBytes_60sec": 112,
+                        "RxMcs": 7,
+                        "RxMhz": 20,
+                        "SignalQuality": 63,
+                        "TxBitrate": 58500,
+                        "TxBytes": 2279660,
+                        "TxBytes_15sec": 110,
+                        "TxBytes_30sec": 110,
+                        "TxBytes_60sec": 220,
+                        "TxMcs": 6,
+                        "TxMhz": 20
+                    },
+                    "bc:dd:c2:97:87:a3": {
+                        "Address": "192.168.182.214",
+                        "HappinessScore": 85,
+                        "HostName": "LH_LBX_04-1955",
+                        "Inactive": 0,
+                        "LeaseValidity": 39155,
+                        "MaxBandwidth": 20,
+                        "MaxSpatialStreams": 1,
+                        "Mode": "802.11g",
+                        "RxBitrate": 72200,
+                        "RxBytes": 1317719,
+                        "RxBytes_30sec": 110,
+                        "RxBytes_60sec": 220,
+                        "RxMcs": 7,
+                        "RxMhz": 20,
+                        "SignalQuality": 73,
+                        "TxBitrate": 58500,
+                        "TxBytes": 2279593,
+                        "TxBytes_30sec": 110,
+                        "TxBytes_60sec": 220,
+                        "TxMcs": 6,
+                        "TxMhz": 20
+                    },
+                    "bc:dd:c2:97:88:41": {
+                        "Address": "192.168.182.107",
+                        "HappinessScore": 85,
+                        "HostName": "LH_LBX_08-2113",
+                        "Inactive": 0,
+                        "LeaseValidity": 39152,
+                        "MaxBandwidth": 20,
+                        "MaxSpatialStreams": 1,
+                        "Mode": "802.11g",
+                        "RxBitrate": 72200,
+                        "RxBytes": 1160086,
+                        "RxBytes_15sec": 56,
+                        "RxBytes_30sec": 56,
+                        "RxBytes_60sec": 172,
+                        "RxMcs": 7,
+                        "RxMhz": 20,
+                        "SignalQuality": 60,
+                        "TxBitrate": 58500,
+                        "TxBytes": 2282309,
+                        "TxBytes_15sec": 110,
+                        "TxBytes_30sec": 110,
+                        "TxBytes_60sec": 262,
+                        "TxMcs": 6,
+                        "TxMhz": 20
+                    },
+                    "bc:dd:c2:97:88:45": {
+                        "Address": "192.168.182.247",
+                        "HappinessScore": 85,
+                        "HostName": "LH_LBX_09-2117",
+                        "Inactive": 0,
+                        "LeaseValidity": 39147,
+                        "MaxBandwidth": 20,
+                        "MaxSpatialStreams": 1,
+                        "Mode": "802.11g",
+                        "RxBitrate": 72200,
+                        "RxBytes": 1161751,
+                        "RxBytes_30sec": 56,
+                        "RxBytes_60sec": 166,
+                        "RxMcs": 7,
+                        "RxMhz": 20,
+                        "SignalQuality": 61,
+                        "TxBitrate": 58500,
+                        "TxBytes": 2281509,
+                        "TxBytes_30sec": 110,
+                        "TxBytes_60sec": 220,
+                        "TxMcs": 6,
+                        "TxMhz": 20
+                    },
+                    "bc:dd:c2:97:88:63": {
+                        "Address": "192.168.182.177",
+                        "HappinessScore": 85,
+                        "HostName": "LH_LBX_05-2147",
+                        "Inactive": 0,
+                        "LeaseValidity": 39154,
+                        "MaxBandwidth": 20,
+                        "MaxSpatialStreams": 1,
+                        "Mode": "802.11g",
+                        "RxBitrate": 72200,
+                        "RxBytes": 1159026,
+                        "RxBytes_15sec": 56,
+                        "RxBytes_30sec": 56,
+                        "RxBytes_5sec": 56,
+                        "RxBytes_60sec": 112,
+                        "RxMcs": 7,
+                        "RxMhz": 20,
+                        "SignalQuality": 70,
+                        "TxBitrate": 58500,
+                        "TxBytes": 2280188,
+                        "TxBytes_15sec": 110,
+                        "TxBytes_30sec": 110,
+                        "TxBytes_5sec": 110,
+                        "TxBytes_60sec": 274,
+                        "TxMcs": 6,
+                        "TxMhz": 20
+                    },
+                    "c4:4f:33:c6:f1:3c": {
+                        "Address": "192.168.182.108",
+                        "HappinessScore": 85,
+                        "HostName": "GS_SW_4-4412",
+                        "Inactive": 0,
+                        "LeaseValidity": 23332,
+                        "MaxBandwidth": 20,
+                        "MaxSpatialStreams": 1,
+                        "Mode": "802.11g",
+                        "RxBitrate": 72200,
+                        "RxBytes": 604895,
+                        "RxBytes_15sec": 170,
+                        "RxBytes_30sec": 170,
+                        "RxBytes_60sec": 388,
+                        "RxMcs": 7,
+                        "RxMhz": 20,
+                        "SignalQuality": 90,
+                        "TxBitrate": 58500,
+                        "TxBytes": 1092773,
+                        "TxBytes_15sec": 152,
+                        "TxBytes_30sec": 266,
+                        "TxBytes_60sec": 1159,
+                        "TxMcs": 6,
+                        "TxMhz": 20
+                    },
+                    "c4:4f:33:c6:f1:5e": {
+                        "Address": "192.168.182.182",
+                        "HappinessScore": 85,
+                        "HostName": "GS_SW_5-4446",
+                        "Inactive": 0,
+                        "LeaseValidity": 39154,
+                        "MaxBandwidth": 20,
+                        "MaxSpatialStreams": 1,
+                        "Mode": "802.11g",
+                        "RxBitrate": 72200,
+                        "RxBytes": 1158825,
+                        "RxBytes_15sec": 110,
+                        "RxBytes_30sec": 110,
+                        "RxBytes_60sec": 334,
+                        "RxMcs": 7,
+                        "RxMhz": 20,
+                        "SignalQuality": 77,
+                        "TxBitrate": 58500,
+                        "TxBytes": 2137224,
+                        "TxBytes_15sec": 110,
+                        "TxBytes_30sec": 110,
+                        "TxBytes_60sec": 673,
+                        "TxMcs": 6,
+                        "TxMhz": 20
+                    },
+                    "c4:4f:33:c6:f2:8e": {
+                        "Address": "192.168.182.246",
+                        "HappinessScore": 85,
+                        "HostName": "GS_SW_15-4750",
+                        "Inactive": 0,
+                        "LeaseValidity": 25653,
+                        "MaxBandwidth": 20,
+                        "MaxSpatialStreams": 1,
+                        "Mode": "802.11g",
+                        "RxBitrate": 72200,
+                        "RxBytes": 1168574,
+                        "RxBytes_15sec": 110,
+                        "RxBytes_30sec": 110,
+                        "RxBytes_60sec": 274,
+                        "RxMcs": 7,
+                        "RxMhz": 20,
+                        "SignalQuality": 63,
+                        "TxBitrate": 58500,
+                        "TxBytes": 2144644,
+                        "TxBytes_15sec": 110,
+                        "TxBytes_30sec": 110,
+                        "TxBytes_60sec": 633,
+                        "TxMcs": 6,
+                        "TxMhz": 20
+                    },
+                    "c4:4f:33:c6:f7:1b": {
+                        "Address": "192.168.182.199",
+                        "HappinessScore": 85,
+                        "HostName": "GS_SW_10-5915",
+                        "Inactive": 0,
+                        "LeaseValidity": 42754,
+                        "MaxBandwidth": 20,
+                        "MaxSpatialStreams": 1,
+                        "Mode": "802.11g",
+                        "RxBitrate": 72200,
+                        "RxBytes": 323109,
+                        "RxBytes_15sec": 110,
+                        "RxBytes_30sec": 110,
+                        "RxBytes_60sec": 280,
+                        "RxMcs": 7,
+                        "RxMhz": 20,
+                        "SignalQuality": 81,
+                        "TxBitrate": 58500,
+                        "TxBytes": 609002,
+                        "TxBytes_15sec": 110,
+                        "TxBytes_30sec": 110,
+                        "TxBytes_60sec": 262,
+                        "TxMcs": 6,
+                        "TxMhz": 20
+                    },
+                    "c4:4f:33:c6:f7:d5": {
+                        "Address": "192.168.182.222",
+                        "HappinessScore": 85,
+                        "HostName": "GS_SW_14-6101",
+                        "Inactive": 0,
+                        "LeaseValidity": 39143,
+                        "MaxBandwidth": 20,
+                        "MaxSpatialStreams": 1,
+                        "Mode": "802.11g",
+                        "RxBitrate": 72200,
+                        "RxBytes": 1160900,
+                        "RxBytes_15sec": 60,
+                        "RxBytes_30sec": 170,
+                        "RxBytes_60sec": 280,
+                        "RxMcs": 7,
+                        "RxMhz": 20,
+                        "SignalQuality": 57,
+                        "TxBitrate": 58500,
+                        "TxBytes": 2137535,
+                        "TxBytes_15sec": 42,
+                        "TxBytes_30sec": 152,
+                        "TxBytes_60sec": 262,
+                        "TxMcs": 6,
+                        "TxMhz": 20
+                    },
+                    "c4:4f:33:ca:2d:88": {
+                        "Address": "192.168.182.101",
+                        "HappinessScore": 85,
+                        "HostName": "GS_SW_7-3464",
+                        "Inactive": 0,
+                        "LeaseValidity": 39155,
+                        "MaxBandwidth": 20,
+                        "MaxSpatialStreams": 1,
+                        "Mode": "802.11g",
+                        "RxBitrate": 72200,
+                        "RxBytes": 1160454,
+                        "RxBytes_30sec": 56,
+                        "RxBytes_60sec": 226,
+                        "RxMcs": 7,
+                        "RxMhz": 20,
+                        "SignalQuality": 80,
+                        "TxBitrate": 58500,
+                        "TxBytes": 2139253,
+                        "TxBytes_30sec": 110,
+                        "TxBytes_60sec": 262,
+                        "TxMcs": 6,
+                        "TxMhz": 20
+                    },
+                    "c4:4f:33:ca:37:7d": {
+                        "Address": "192.168.182.105",
+                        "HappinessScore": 85,
+                        "HostName": "GS_SW_6-6013",
+                        "Inactive": 0,
+                        "LeaseValidity": 42756,
+                        "MaxBandwidth": 20,
+                        "MaxSpatialStreams": 1,
+                        "Mode": "802.11g",
+                        "RxBitrate": 72200,
+                        "RxBytes": 734622,
+                        "RxBytes_15sec": 170,
+                        "RxBytes_30sec": 170,
+                        "RxBytes_60sec": 280,
+                        "RxMcs": 7,
+                        "RxMhz": 20,
+                        "SignalQuality": 76,
+                        "TxBitrate": 58500,
+                        "TxBytes": 1356379,
+                        "TxBytes_15sec": 152,
+                        "TxBytes_30sec": 152,
+                        "TxBytes_60sec": 262,
+                        "TxMcs": 6,
+                        "TxMhz": 20
+                    },
+                    "c4:4f:33:ca:40:82": {
+                        "Address": "192.168.182.223",
+                        "HappinessScore": 85,
+                        "HostName": "GS_SW_3-0130",
+                        "Inactive": 0,
+                        "LeaseValidity": 39150,
+                        "MaxBandwidth": 20,
+                        "MaxSpatialStreams": 1,
+                        "Mode": "802.11g",
+                        "RxBitrate": 72200,
+                        "RxBytes": 1162254,
+                        "RxBytes_15sec": 56,
+                        "RxBytes_30sec": 56,
+                        "RxBytes_60sec": 226,
+                        "RxMcs": 7,
+                        "RxMhz": 20,
+                        "SignalQuality": 89,
+                        "TxBitrate": 58500,
+                        "TxBytes": 2513863,
+                        "TxBytes_15sec": 176,
+                        "TxBytes_30sec": 176,
+                        "TxBytes_60sec": 328,
+                        "TxMcs": 6,
+                        "TxMhz": 20
+                    },
+                    "c8:2b:96:56:41:45": {
+                        "Address": "192.168.182.192",
+                        "HappinessScore": 85,
+                        "HostName": "GS_SW_18-0325",
+                        "Inactive": 0,
+                        "LeaseValidity": 42744,
+                        "MaxBandwidth": 20,
+                        "MaxSpatialStreams": 1,
+                        "Mode": "802.11g",
+                        "RxBitrate": 72200,
+                        "RxBytes": 321236,
+                        "RxBytes_15sec": 56,
+                        "RxBytes_30sec": 56,
+                        "RxBytes_60sec": 226,
+                        "RxMcs": 7,
+                        "RxMhz": 20,
+                        "SignalQuality": 86,
+                        "TxBitrate": 58500,
+                        "TxBytes": 604481,
+                        "TxBytes_15sec": 110,
+                        "TxBytes_30sec": 110,
+                        "TxBytes_60sec": 262,
+                        "TxMcs": 6,
+                        "TxMhz": 20
+                    },
+                    "c8:2b:96:56:52:7b": {
+                        "Address": "192.168.182.181",
+                        "HappinessScore": 85,
+                        "HostName": "GS_SW_17-4731",
+                        "Inactive": 0,
+                        "LeaseValidity": 42753,
+                        "MaxBandwidth": 20,
+                        "MaxSpatialStreams": 1,
+                        "Mode": "802.11g",
+                        "RxBitrate": 72200,
+                        "RxBytes": 321166,
+                        "RxBytes_15sec": 110,
+                        "RxBytes_30sec": 110,
+                        "RxBytes_60sec": 280,
+                        "RxMcs": 7,
+                        "RxMhz": 20,
+                        "SignalQuality": 84,
+                        "TxBitrate": 58500,
+                        "TxBytes": 604913,
+                        "TxBytes_15sec": 110,
+                        "TxBytes_30sec": 110,
+                        "TxBytes_60sec": 262,
+                        "TxMcs": 6,
+                        "TxMhz": 20
+                    },
+                    "c8:2b:96:56:bc:8e": {
+                        "Address": "192.168.182.242",
+                        "HappinessScore": 85,
+                        "HostName": "GS_DM_3-7310",
+                        "Inactive": 0,
+                        "LeaseValidity": 42755,
+                        "MaxBandwidth": 20,
+                        "MaxSpatialStreams": 1,
+                        "Mode": "802.11g",
+                        "RxBitrate": 72200,
+                        "RxBytes": 325978,
+                        "RxBytes_30sec": 110,
+                        "RxBytes_60sec": 280,
+                        "RxMcs": 7,
+                        "RxMhz": 20,
+                        "SignalQuality": 84,
+                        "TxBitrate": 58500,
+                        "TxBytes": 733031,
+                        "TxBytes_30sec": 110,
+                        "TxBytes_60sec": 330,
+                        "TxMcs": 6,
+                        "TxMhz": 20
+                    },
+                    "c8:2b:96:56:c5:d3": {
+                        "Address": "192.168.182.245",
+                        "HappinessScore": 85,
+                        "HostName": "GS_DM_4-1491",
+                        "Inactive": 0,
+                        "LeaseValidity": 42751,
+                        "MaxBandwidth": 20,
+                        "MaxSpatialStreams": 1,
+                        "Mode": "802.11g",
+                        "RxBitrate": 72200,
+                        "RxBytes": 975689,
+                        "RxBytes_30sec": 170,
+                        "RxBytes_60sec": 280,
+                        "RxMcs": 7,
+                        "RxMhz": 20,
+                        "SignalQuality": 70,
+                        "TxBitrate": 58500,
+                        "TxBytes": 1918419,
+                        "TxBytes_30sec": 152,
+                        "TxBytes_60sec": 335,
+                        "TxMcs": 6,
+                        "TxMhz": 20
+                    },
+                    "c8:2b:96:56:ca:e4": {
+                        "Address": "192.168.182.144",
+                        "HappinessScore": 85,
+                        "HostName": "GS_DM_6-2788",
+                        "Inactive": 0,
+                        "LeaseValidity": 39153,
+                        "MaxBandwidth": 20,
+                        "MaxSpatialStreams": 1,
+                        "Mode": "802.11g",
+                        "RxBitrate": 72200,
+                        "RxBytes": 1325717,
+                        "RxBytes_15sec": 110,
+                        "RxBytes_30sec": 110,
+                        "RxBytes_60sec": 280,
+                        "RxMcs": 7,
+                        "RxMhz": 20,
+                        "SignalQuality": 69,
+                        "TxBitrate": 58500,
+                        "TxBytes": 2203385,
+                        "TxBytes_15sec": 110,
+                        "TxBytes_30sec": 110,
+                        "TxBytes_60sec": 262,
+                        "TxMcs": 6,
+                        "TxMhz": 20
+                    },
+                    "c8:2b:96:56:cd:59": {
+                        "Address": "192.168.182.226",
+                        "HappinessScore": 85,
+                        "HostName": "GS_DM_16-3417",
+                        "Inactive": 0,
+                        "LeaseValidity": 42754,
+                        "MaxBandwidth": 20,
+                        "MaxSpatialStreams": 1,
+                        "Mode": "802.11g",
+                        "RxBitrate": 72200,
+                        "RxBytes": 322682,
+                        "RxBytes_30sec": 170,
+                        "RxBytes_60sec": 280,
+                        "RxMcs": 7,
+                        "RxMhz": 20,
+                        "SignalQuality": 86,
+                        "TxBitrate": 58500,
+                        "TxBytes": 621767,
+                        "TxBytes_30sec": 152,
+                        "TxBytes_60sec": 262,
+                        "TxMcs": 6,
+                        "TxMhz": 20
+                    },
+                    "c8:2b:96:56:cd:67": {
+                        "Address": "192.168.182.174",
+                        "HappinessScore": 85,
+                        "HostName": "GS_DM_14-3431",
+                        "Inactive": 0,
+                        "LeaseValidity": 35553,
+                        "MaxBandwidth": 20,
+                        "MaxSpatialStreams": 1,
+                        "Mode": "802.11g",
+                        "RxBitrate": 72200,
+                        "RxBytes": 1008814,
+                        "RxBytes_15sec": 116,
+                        "RxBytes_30sec": 116,
+                        "RxBytes_5sec": 60,
+                        "RxBytes_60sec": 280,
+                        "RxMcs": 7,
+                        "RxMhz": 20,
+                        "SignalQuality": 90,
+                        "TxBitrate": 58500,
+                        "TxBytes": 1917900,
+                        "TxBytes_15sec": 152,
+                        "TxBytes_30sec": 152,
+                        "TxBytes_5sec": 42,
+                        "TxBytes_60sec": 681,
+                        "TxMcs": 6,
+                        "TxMhz": 20
+                    },
+                    "c8:2b:96:56:d1:e4": {
+                        "Address": "192.168.182.180",
+                        "HappinessScore": 85,
+                        "HostName": "GS_DM_15-4580",
+                        "Inactive": 0,
+                        "LeaseValidity": 39151,
+                        "MaxBandwidth": 20,
+                        "MaxSpatialStreams": 1,
+                        "Mode": "802.11g",
+                        "RxBitrate": 72200,
+                        "RxBytes": 914335,
+                        "RxBytes_15sec": 56,
+                        "RxBytes_30sec": 56,
+                        "RxBytes_60sec": 172,
+                        "RxMcs": 7,
+                        "RxMhz": 20,
+                        "SignalQuality": 83,
+                        "TxBitrate": 58500,
+                        "TxBytes": 1733293,
+                        "TxBytes_15sec": 110,
+                        "TxBytes_30sec": 110,
+                        "TxBytes_60sec": 262,
+                        "TxMcs": 6,
+                        "TxMhz": 20
+                    },
+                    "c8:2b:96:56:d7:00": {
+                        "Address": "192.168.182.155",
+                        "HappinessScore": 85,
+                        "HostName": "GS_DM_2-5888",
+                        "Inactive": 0,
+                        "LeaseValidity": 39147,
+                        "MaxBandwidth": 20,
+                        "MaxSpatialStreams": 1,
+                        "Mode": "802.11g",
+                        "RxBitrate": 72200,
+                        "RxBytes": 1162271,
+                        "RxBytes_15sec": 110,
+                        "RxBytes_30sec": 110,
+                        "RxBytes_60sec": 280,
+                        "RxMcs": 7,
+                        "RxMhz": 20,
+                        "SignalQuality": 74,
+                        "TxBitrate": 58500,
+                        "TxBytes": 2579662,
+                        "TxBytes_15sec": 110,
+                        "TxBytes_30sec": 222,
+                        "TxBytes_60sec": 420,
+                        "TxMcs": 6,
+                        "TxMhz": 20
+                    },
+                    "c8:2b:96:56:db:0f": {
+                        "Address": "192.168.182.112",
+                        "HappinessScore": 85,
+                        "HostName": "GS_DM_1-6927",
+                        "Inactive": 0,
+                        "LeaseValidity": 39153,
+                        "MaxBandwidth": 20,
+                        "MaxSpatialStreams": 1,
+                        "Mode": "802.11g",
+                        "RxBitrate": 72200,
+                        "RxBytes": 1684383,
+                        "RxBytes_30sec": 110,
+                        "RxBytes_60sec": 280,
+                        "RxMcs": 7,
+                        "RxMhz": 20,
+                        "SignalQuality": 90,
+                        "TxBitrate": 58500,
+                        "TxBytes": 3065231,
+                        "TxBytes_30sec": 110,
+                        "TxBytes_60sec": 375,
+                        "TxMcs": 6,
+                        "TxMhz": 20
+                    },
+                    "c8:2b:96:56:dc:1c": {
+                        "Address": "192.168.182.211",
+                        "HappinessScore": 85,
+                        "HostName": "GS_DM_8-7196",
+                        "Inactive": 0,
+                        "LeaseValidity": 35554,
+                        "MaxBandwidth": 20,
+                        "MaxSpatialStreams": 1,
+                        "Mode": "802.11g",
+                        "RxBitrate": 72200,
+                        "RxBytes": 1001884,
+                        "RxBytes_15sec": 56,
+                        "RxBytes_30sec": 56,
+                        "RxBytes_60sec": 226,
+                        "RxMcs": 7,
+                        "RxMhz": 20,
+                        "SignalQuality": 71,
+                        "TxBitrate": 58500,
+                        "TxBytes": 1905634,
+                        "TxBytes_15sec": 110,
+                        "TxBytes_30sec": 110,
+                        "TxBytes_60sec": 262,
+                        "TxMcs": 6,
+                        "TxMhz": 20
+                    },
+                    "c8:2b:96:56:f0:fc": {
+                        "Address": "192.168.182.103",
+                        "HappinessScore": 85,
+                        "HostName": "GS_DM_9-4348",
+                        "Inactive": 0,
+                        "LeaseValidity": 35556,
+                        "MaxBandwidth": 20,
+                        "MaxSpatialStreams": 1,
+                        "Mode": "802.11g",
+                        "RxBitrate": 72200,
+                        "RxBytes": 1007803,
+                        "RxBytes_15sec": 110,
+                        "RxBytes_30sec": 110,
+                        "RxBytes_60sec": 280,
+                        "RxMcs": 7,
+                        "RxMhz": 20,
+                        "SignalQuality": 79,
+                        "TxBitrate": 58500,
+                        "TxBytes": 2247435,
+                        "TxBytes_15sec": 178,
+                        "TxBytes_30sec": 224,
+                        "TxBytes_60sec": 422,
+                        "TxMcs": 6,
+                        "TxMhz": 20
+                    },
+                    "c8:2b:96:56:f1:34": {
+                        "Address": "192.168.182.158",
+                        "HappinessScore": 85,
+                        "HostName": "GS_DM_12-4404",
+                        "Inactive": 0,
+                        "LeaseValidity": 39152,
+                        "MaxBandwidth": 20,
+                        "MaxSpatialStreams": 1,
+                        "Mode": "802.11g",
+                        "RxBitrate": 72200,
+                        "RxBytes": 1226206,
+                        "RxBytes_30sec": 170,
+                        "RxBytes_60sec": 280,
+                        "RxMcs": 7,
+                        "RxMhz": 20,
+                        "SignalQuality": 79,
+                        "TxBitrate": 58500,
+                        "TxBytes": 2652359,
+                        "TxBytes_30sec": 152,
+                        "TxBytes_60sec": 328,
+                        "TxMcs": 6,
+                        "TxMhz": 20
+                    },
+                    "c8:2b:96:5c:c9:e0": {
+                        "Address": "192.168.182.141",
+                        "HappinessScore": 85,
+                        "HostName": "GS_SW_13-2528",
+                        "Inactive": 0,
+                        "LeaseValidity": 39148,
+                        "MaxBandwidth": 20,
+                        "MaxSpatialStreams": 1,
+                        "Mode": "802.11g",
+                        "RxBitrate": 72200,
+                        "RxBytes": 1163256,
+                        "RxBytes_30sec": 170,
+                        "RxBytes_60sec": 280,
+                        "RxMcs": 7,
+                        "RxMhz": 20,
+                        "SignalQuality": 69,
+                        "TxBitrate": 58500,
+                        "TxBytes": 2572262,
+                        "TxBytes_15sec": 75,
+                        "TxBytes_30sec": 227,
+                        "TxBytes_60sec": 337,
+                        "TxMcs": 6,
+                        "TxMhz": 20
+                    },
+                    "c8:2b:96:5c:cd:3e": {
+                        "Address": "192.168.182.204",
+                        "HappinessScore": 85,
+                        "HostName": "GS_SW_19-3390",
+                        "Inactive": 0,
+                        "LeaseValidity": 42753,
+                        "MaxBandwidth": 20,
+                        "MaxSpatialStreams": 1,
+                        "Mode": "802.11g",
+                        "RxBitrate": 72200,
+                        "RxBytes": 734681,
+                        "RxBytes_15sec": 56,
+                        "RxBytes_30sec": 56,
+                        "RxBytes_60sec": 166,
+                        "RxMcs": 7,
+                        "RxMhz": 20,
+                        "SignalQuality": 71,
+                        "TxBitrate": 58500,
+                        "TxBytes": 1359026,
+                        "TxBytes_15sec": 110,
+                        "TxBytes_30sec": 110,
+                        "TxBytes_60sec": 220,
+                        "TxMcs": 6,
+                        "TxMhz": 20
+                    },
+                    "c8:2b:96:5c:d0:a4": {
+                        "Address": "192.168.182.114",
+                        "HappinessScore": 85,
+                        "HostName": "GS_SW_1-4260",
+                        "Inactive": 0,
+                        "LeaseValidity": 39151,
+                        "MaxBandwidth": 20,
+                        "MaxSpatialStreams": 1,
+                        "Mode": "802.11g",
+                        "RxBitrate": 72200,
+                        "RxBytes": 1211395,
+                        "RxBytes_15sec": 56,
+                        "RxBytes_30sec": 56,
+                        "RxBytes_5sec": 56,
+                        "RxBytes_60sec": 166,
+                        "RxMcs": 7,
+                        "RxMhz": 20,
+                        "SignalQuality": 74,
+                        "TxBitrate": 58500,
+                        "TxBytes": 2258329,
+                        "TxBytes_15sec": 110,
+                        "TxBytes_30sec": 110,
+                        "TxBytes_5sec": 110,
+                        "TxBytes_60sec": 220,
+                        "TxMcs": 6,
+                        "TxMhz": 20
+                    },
+                    "c8:2b:96:5c:d1:38": {
+                        "Address": "192.168.182.160",
+                        "HappinessScore": 85,
+                        "HostName": "GS_SW_20-4408",
+                        "Inactive": 0,
+                        "LeaseValidity": 42753,
+                        "MaxBandwidth": 20,
+                        "MaxSpatialStreams": 1,
+                        "Mode": "802.11g",
+                        "RxBitrate": 72200,
+                        "RxBytes": 321037,
+                        "RxBytes_30sec": 170,
+                        "RxBytes_60sec": 280,
+                        "RxMcs": 7,
+                        "RxMhz": 20,
+                        "SignalQuality": 86,
+                        "TxBitrate": 58500,
+                        "TxBytes": 604028,
+                        "TxBytes_30sec": 152,
+                        "TxBytes_60sec": 262,
+                        "TxMcs": 6,
+                        "TxMhz": 20
+                    },
+                    "c8:2b:96:5c:d3:83": {
+                        "Address": "192.168.182.113",
+                        "HappinessScore": 85,
+                        "HostName": "GS_SW_11-4995",
+                        "Inactive": 0,
+                        "LeaseValidity": 39150,
+                        "MaxBandwidth": 20,
+                        "MaxSpatialStreams": 1,
+                        "Mode": "802.11g",
+                        "RxBitrate": 72200,
+                        "RxBytes": 1158966,
+                        "RxBytes_15sec": 110,
+                        "RxBytes_30sec": 110,
+                        "RxBytes_60sec": 334,
+                        "RxMcs": 7,
+                        "RxMhz": 20,
+                        "SignalQuality": 89,
+                        "TxBitrate": 58500,
+                        "TxBytes": 2140673,
+                        "TxBytes_15sec": 110,
+                        "TxBytes_30sec": 110,
+                        "TxBytes_60sec": 675,
+                        "TxMcs": 6,
+                        "TxMhz": 20
+                    },
+                    "c8:2b:96:5c:d6:66": {
+                        "Address": "192.168.182.240",
+                        "HappinessScore": 85,
+                        "HostName": "GS_SW_12-5734",
+                        "Inactive": 0,
+                        "LeaseValidity": 39144,
+                        "MaxBandwidth": 20,
+                        "MaxSpatialStreams": 1,
+                        "Mode": "802.11g",
+                        "RxBitrate": 72200,
+                        "RxBytes": 1153222,
+                        "RxBytes_15sec": 110,
+                        "RxBytes_30sec": 110,
+                        "RxBytes_60sec": 280,
+                        "RxMcs": 7,
+                        "RxMhz": 20,
+                        "SignalQuality": 76,
+                        "TxBitrate": 58500,
+                        "TxBytes": 2137092,
+                        "TxBytes_15sec": 110,
+                        "TxBytes_30sec": 110,
+                        "TxBytes_60sec": 262,
+                        "TxMcs": 6,
+                        "TxMhz": 20
+                    },
+                    "c8:2b:96:c2:5c:28": {
+                        "Address": "192.168.182.163",
+                        "HappinessScore": 85,
+                        "HostName": "GS_DM_10-7208",
+                        "Inactive": 0,
+                        "LeaseValidity": 35555,
+                        "MaxBandwidth": 20,
+                        "MaxSpatialStreams": 1,
+                        "Mode": "802.11g",
+                        "RxBitrate": 72200,
+                        "RxBytes": 1007755,
+                        "RxBytes_15sec": 110,
+                        "RxBytes_30sec": 170,
+                        "RxBytes_5sec": 110,
+                        "RxBytes_60sec": 280,
+                        "RxMcs": 7,
+                        "RxMhz": 20,
+                        "SignalQuality": 77,
+                        "TxBitrate": 58500,
+                        "TxBytes": 2236311,
+                        "TxBytes_15sec": 176,
+                        "TxBytes_30sec": 218,
+                        "TxBytes_5sec": 176,
+                        "TxBytes_60sec": 328,
+                        "TxMcs": 6,
+                        "TxMhz": 20
+                    },
+                    "c8:2b:96:c2:5c:f1": {
+                        "Address": "192.168.182.151",
+                        "HappinessScore": 85,
+                        "HostName": "GS_DM_5-7409",
+                        "Inactive": 0,
+                        "LeaseValidity": 39149,
+                        "MaxBandwidth": 20,
+                        "MaxSpatialStreams": 1,
+                        "Mode": "802.11g",
+                        "RxBitrate": 72200,
+                        "RxBytes": 1591290,
+                        "RxBytes_15sec": 56,
+                        "RxBytes_30sec": 56,
+                        "RxBytes_60sec": 112,
+                        "RxMcs": 7,
+                        "RxMhz": 20,
+                        "SignalQuality": 79,
+                        "TxBitrate": 58500,
+                        "TxBytes": 2687711,
+                        "TxBytes_15sec": 110,
+                        "TxBytes_30sec": 178,
+                        "TxBytes_60sec": 288,
+                        "TxMcs": 6,
+                        "TxMhz": 20
+                    },
+                    "c8:2b:96:c2:5d:e2": {
+                        "Address": "192.168.182.201",
+                        "HappinessScore": 85,
+                        "HostName": "GS_DM_13-7650",
+                        "Inactive": 0,
+                        "LeaseValidity": 39153,
+                        "MaxBandwidth": 20,
+                        "MaxSpatialStreams": 1,
+                        "Mode": "802.11g",
+                        "RxBitrate": 72200,
+                        "RxBytes": 1155383,
+                        "RxBytes_15sec": 60,
+                        "RxBytes_30sec": 170,
+                        "RxBytes_60sec": 280,
+                        "RxMcs": 7,
+                        "RxMhz": 20,
+                        "SignalQuality": 89,
+                        "TxBitrate": 58500,
+                        "TxBytes": 2195682,
+                        "TxBytes_15sec": 42,
+                        "TxBytes_30sec": 152,
+                        "TxBytes_60sec": 262,
+                        "TxMcs": 6,
+                        "TxMhz": 20
+                    },
+                    "d8:f1:5b:86:4c:c5": {
+                        "Address": "192.168.182.120",
+                        "HappinessScore": 85,
+                        "HostName": "LH_LB_10-3269",
+                        "Inactive": 0,
+                        "LeaseValidity": 32219,
+                        "MaxBandwidth": 20,
+                        "MaxSpatialStreams": 1,
+                        "Mode": "802.11g",
+                        "RxBitrate": 72200,
+                        "RxBytes": 4033102,
+                        "RxBytes_15sec": 56,
+                        "RxBytes_30sec": 56,
+                        "RxBytes_60sec": 112,
+                        "RxMcs": 7,
+                        "RxMhz": 20,
+                        "SignalQuality": 69,
+                        "TxBitrate": 58500,
+                        "TxBytes": 4011497,
+                        "TxBytes_15sec": 110,
+                        "TxBytes_30sec": 110,
+                        "TxBytes_60sec": 266,
+                        "TxMcs": 6,
+                        "TxMhz": 20
+                    },
+                    "d8:f1:5b:86:52:a6": {
+                        "Address": "192.168.182.146",
+                        "HappinessScore": 85,
+                        "HostName": "LH_LB_31-4774",
+                        "Inactive": 0,
+                        "LeaseValidity": 39147,
+                        "MaxBandwidth": 20,
+                        "MaxSpatialStreams": 1,
+                        "Mode": "802.11g",
+                        "RxBitrate": 72200,
+                        "RxBytes": 936104,
+                        "RxBytes_30sec": 116,
+                        "RxBytes_60sec": 226,
+                        "RxMcs": 7,
+                        "RxMhz": 20,
+                        "SignalQuality": 49,
+                        "TxBitrate": 58500,
+                        "TxBytes": 2108852,
+                        "TxBytes_30sec": 218,
+                        "TxBytes_60sec": 328,
+                        "TxMcs": 6,
+                        "TxMhz": 20
+                    },
+                    "d8:f1:5b:86:7b:23": {
+                        "Address": "192.168.182.202",
+                        "HappinessScore": 85,
+                        "HostName": "LH_LB_19-6947",
+                        "Inactive": 0,
+                        "LeaseValidity": 39153,
+                        "MaxBandwidth": 20,
+                        "MaxSpatialStreams": 1,
+                        "Mode": "802.11g",
+                        "RxBitrate": 72200,
+                        "RxBytes": 1243116,
+                        "RxBytes_15sec": 110,
+                        "RxBytes_30sec": 110,
+                        "RxBytes_60sec": 334,
+                        "RxMcs": 7,
+                        "RxMhz": 20,
+                        "SignalQuality": 71,
+                        "TxBitrate": 58500,
+                        "TxBytes": 2741740,
+                        "TxBytes_15sec": 110,
+                        "TxBytes_30sec": 110,
+                        "TxBytes_60sec": 741,
+                        "TxMcs": 6,
+                        "TxMhz": 20
+                    },
+                    "d8:f1:5b:86:8c:73": {
+                        "Address": "192.168.182.179",
+                        "HappinessScore": 85,
+                        "HostName": "LH_LB_35-3187",
+                        "Inactive": 0,
+                        "LeaseValidity": 39154,
+                        "MaxBandwidth": 20,
+                        "MaxSpatialStreams": 1,
+                        "Mode": "802.11g",
+                        "RxBitrate": 72200,
+                        "RxBytes": 1201630,
+                        "RxBytes_15sec": 110,
+                        "RxBytes_30sec": 170,
+                        "RxBytes_5sec": 110,
+                        "RxBytes_60sec": 280,
+                        "RxMcs": 7,
+                        "RxMhz": 20,
+                        "SignalQuality": 60,
+                        "TxBitrate": 58500,
+                        "TxBytes": 2722385,
+                        "TxBytes_15sec": 176,
+                        "TxBytes_30sec": 218,
+                        "TxBytes_5sec": 110,
+                        "TxBytes_60sec": 328,
+                        "TxMcs": 6,
+                        "TxMhz": 20
+                    },
+                    "d8:f1:5b:b7:60:08": {
+                        "Address": "192.168.182.216",
+                        "HappinessScore": 85,
+                        "HostName": "BN_PL_03-0008",
+                        "Inactive": 0,
+                        "LeaseValidity": 39153,
+                        "MaxBandwidth": 20,
+                        "MaxSpatialStreams": 1,
+                        "Mode": "802.11g",
+                        "RxBitrate": 72200,
+                        "RxBytes": 962955,
+                        "RxBytes_30sec": 170,
+                        "RxBytes_60sec": 280,
+                        "RxMcs": 7,
+                        "RxMhz": 20,
+                        "SignalQuality": 96,
+                        "TxBitrate": 58500,
+                        "TxBytes": 2257511,
+                        "TxBytes_30sec": 152,
+                        "TxBytes_60sec": 262,
+                        "TxMcs": 6,
+                        "TxMhz": 20
+                    },
+                    "d8:f1:5b:de:5c:3e": {
+                        "Address": "192.168.182.109",
+                        "HappinessScore": 85,
+                        "HostName": "GS_SW_2-7230",
+                        "Inactive": 0,
+                        "LeaseValidity": 33751,
+                        "MaxBandwidth": 20,
+                        "MaxSpatialStreams": 1,
+                        "Mode": "802.11g",
+                        "RxBitrate": 72200,
+                        "RxBytes": 953187,
+                        "RxBytes_30sec": 170,
+                        "RxBytes_60sec": 280,
+                        "RxMcs": 7,
+                        "RxMhz": 20,
+                        "SignalQuality": 91,
+                        "TxBitrate": 58500,
+                        "TxBytes": 2066366,
+                        "TxBytes_30sec": 217,
+                        "TxBytes_60sec": 327,
+                        "TxMcs": 6,
+                        "TxMhz": 20
+                    },
+                    "d8:f1:5b:e2:24:a1": {
+                        "Address": "192.168.182.100",
+                        "HappinessScore": 85,
+                        "HostName": "LH_LB_4-1185",
+                        "Inactive": 0,
+                        "LeaseValidity": 39151,
+                        "MaxBandwidth": 20,
+                        "MaxSpatialStreams": 1,
+                        "Mode": "802.11g",
+                        "RxBitrate": 72200,
+                        "RxBytes": 1163920,
+                        "RxBytes_15sec": 60,
+                        "RxBytes_30sec": 170,
+                        "RxBytes_60sec": 280,
+                        "RxMcs": 7,
+                        "RxMhz": 20,
+                        "SignalQuality": 57,
+                        "TxBitrate": 58500,
+                        "TxBytes": 2659405,
+                        "TxBytes_15sec": 42,
+                        "TxBytes_30sec": 152,
+                        "TxBytes_60sec": 328,
+                        "TxMcs": 6,
+                        "TxMhz": 20
+                    },
+                    "d8:f1:5b:e2:65:94": {
+                        "Address": "192.168.182.131",
+                        "HappinessScore": 85,
+                        "HostName": "LH_LB_02-1428",
+                        "Inactive": 0,
+                        "LeaseValidity": 38538,
+                        "MaxBandwidth": 20,
+                        "MaxSpatialStreams": 1,
+                        "Mode": "802.11g",
+                        "RxBitrate": 72200,
+                        "RxBytes": 22096387,
+                        "RxBytes_15sec": 3534,
+                        "RxBytes_30sec": 7124,
+                        "RxBytes_5sec": 1178,
+                        "RxBytes_60sec": 15390,
+                        "RxMcs": 7,
+                        "RxMhz": 20,
+                        "SignalQuality": 53,
+                        "TxBitrate": 58500,
+                        "TxBytes": 22703678,
+                        "TxBytes_15sec": 3624,
+                        "TxBytes_30sec": 7250,
+                        "TxBytes_5sec": 1226,
+                        "TxBytes_60sec": 15853,
+                        "TxMcs": 6,
+                        "TxMhz": 20
+                    },
+                    "dc:4f:22:53:cc:ac": {
+                        "Address": "192.168.182.129",
+                        "HappinessScore": 85,
+                        "HostName": "LH_LBX_10-3244",
+                        "Inactive": 0,
+                        "LeaseValidity": 39161,
+                        "MaxBandwidth": 20,
+                        "MaxSpatialStreams": 1,
+                        "Mode": "802.11g",
+                        "RxBitrate": 72200,
+                        "RxBytes": 1159120,
+                        "RxBytes_15sec": 56,
+                        "RxBytes_30sec": 116,
+                        "RxBytes_5sec": 56,
+                        "RxBytes_60sec": 172,
+                        "RxMcs": 7,
+                        "RxMhz": 20,
+                        "SignalQuality": 70,
+                        "TxBitrate": 58500,
+                        "TxBytes": 2280171,
+                        "TxBytes_15sec": 110,
+                        "TxBytes_30sec": 152,
+                        "TxBytes_5sec": 110,
+                        "TxBytes_60sec": 262,
+                        "TxMcs": 6,
+                        "TxMhz": 20
+                    },
+                    "dc:4f:22:57:30:c6": {
+                        "Address": "192.168.182.102",
+                        "HappinessScore": 85,
+                        "HostName": "LH_LBX_06-4294",
+                        "Inactive": 0,
+                        "LeaseValidity": 39151,
+                        "MaxBandwidth": 20,
+                        "MaxSpatialStreams": 1,
+                        "Mode": "802.11g",
+                        "RxBitrate": 72200,
+                        "RxBytes": 1162848,
+                        "RxBytes_30sec": 56,
+                        "RxBytes_60sec": 166,
+                        "RxMcs": 7,
+                        "RxMhz": 20,
+                        "SignalQuality": 60,
+                        "TxBitrate": 58500,
+                        "TxBytes": 2280978,
+                        "TxBytes_30sec": 110,
+                        "TxBytes_60sec": 220,
+                        "TxMcs": 6,
+                        "TxMhz": 20
+                    },
+                    "dc:4f:22:b6:15:b1": {
+                        "Address": "192.168.182.243",
+                        "HappinessScore": 85,
+                        "HostName": "LH_LB_25-5553",
+                        "Inactive": 0,
+                        "LeaseValidity": 35549,
+                        "MaxBandwidth": 20,
+                        "MaxSpatialStreams": 1,
+                        "Mode": "802.11g",
+                        "RxBitrate": 72200,
+                        "RxBytes": 1121244,
+                        "RxBytes_15sec": 110,
+                        "RxBytes_30sec": 110,
+                        "RxBytes_60sec": 280,
+                        "RxMcs": 7,
+                        "RxMhz": 20,
+                        "SignalQuality": 60,
+                        "TxBitrate": 58500,
+                        "TxBytes": 2544245,
+                        "TxBytes_15sec": 176,
+                        "TxBytes_30sec": 176,
+                        "TxBytes_60sec": 328,
+                        "TxMcs": 6,
+                        "TxMhz": 20
+                    },
+                    "dc:4f:22:b6:15:c1": {
+                        "Address": "192.168.182.106",
+                        "HappinessScore": 85,
+                        "HostName": "LH_LB_23-5569",
+                        "Inactive": 0,
+                        "LeaseValidity": 35551,
+                        "MaxBandwidth": 20,
+                        "MaxSpatialStreams": 1,
+                        "Mode": "802.11g",
+                        "RxBitrate": 72200,
+                        "RxBytes": 1021842,
+                        "RxBytes_15sec": 56,
+                        "RxBytes_30sec": 56,
+                        "RxBytes_60sec": 226,
+                        "RxMcs": 7,
+                        "RxMhz": 20,
+                        "SignalQuality": 64,
+                        "TxBitrate": 58500,
+                        "TxBytes": 2335770,
+                        "TxBytes_15sec": 176,
+                        "TxBytes_30sec": 176,
+                        "TxBytes_60sec": 374,
+                        "TxMcs": 6,
+                        "TxMhz": 20
+                    },
+                    "dc:4f:22:b6:29:33": {
+                        "Address": "192.168.182.136",
+                        "HappinessScore": 85,
+                        "HostName": "LH_LB_26-2355",
+                        "Inactive": 0,
+                        "LeaseValidity": 39152,
+                        "MaxBandwidth": 20,
+                        "MaxSpatialStreams": 1,
+                        "Mode": "802.11g",
+                        "RxBitrate": 72200,
+                        "RxBytes": 1196093,
+                        "RxBytes_15sec": 110,
+                        "RxBytes_30sec": 110,
+                        "RxBytes_60sec": 280,
+                        "RxMcs": 7,
+                        "RxMhz": 20,
+                        "SignalQuality": 57,
+                        "TxBitrate": 58500,
+                        "TxBytes": 2707809,
+                        "TxBytes_15sec": 176,
+                        "TxBytes_30sec": 176,
+                        "TxBytes_60sec": 328,
+                        "TxMcs": 6,
+                        "TxMhz": 20
+                    },
+                    "dc:4f:22:b7:0b:6e": {
+                        "Address": "192.168.182.169",
+                        "HappinessScore": 85,
+                        "HostName": "LH_LB_27-2926",
+                        "Inactive": 0,
+                        "LeaseValidity": 42756,
+                        "MaxBandwidth": 20,
+                        "MaxSpatialStreams": 1,
+                        "Mode": "802.11g",
+                        "RxBitrate": 72200,
+                        "RxBytes": 1086674,
+                        "RxBytes_15sec": 110,
+                        "RxBytes_30sec": 110,
+                        "RxBytes_60sec": 280,
+                        "RxMcs": 7,
+                        "RxMhz": 20,
+                        "SignalQuality": 61,
+                        "TxBitrate": 58500,
+                        "TxBytes": 2476235,
+                        "TxBytes_15sec": 110,
+                        "TxBytes_30sec": 110,
+                        "TxBytes_60sec": 262,
+                        "TxMcs": 6,
+                        "TxMhz": 20
+                    },
+                    "dc:4f:22:bf:6c:7d": {
+                        "Address": "192.168.182.212",
+                        "HappinessScore": 85,
+                        "HostName": "BN_PL_02-3197",
+                        "Inactive": 0,
+                        "LeaseValidity": 39155,
+                        "MaxBandwidth": 20,
+                        "MaxSpatialStreams": 1,
+                        "Mode": "802.11g",
+                        "RxBitrate": 72200,
+                        "RxBytes": 1256184,
+                        "RxBytes_30sec": 110,
+                        "RxBytes_60sec": 274,
+                        "RxMcs": 7,
+                        "RxMhz": 20,
+                        "SignalQuality": 64,
+                        "TxBitrate": 58500,
+                        "TxBytes": 2878950,
+                        "TxBytes_30sec": 176,
+                        "TxBytes_60sec": 701,
+                        "TxMcs": 6,
+                        "TxMhz": 20
+                    },
+                    "f0:f0:a4:7c:77:2d": {
+                        "Address": "192.168.182.191",
+                        "HappinessScore": 85,
+                        "Inactive": 0,
+                        "LeaseValidity": 32522,
+                        "MaxBandwidth": 20,
+                        "MaxSpatialStreams": 1,
+                        "Mode": "802.11n",
+                        "RxBitrate": 72200,
+                        "RxBytes": 2248415757,
+                        "RxBytes_15sec": 4590,
+                        "RxBytes_30sec": 10713,
+                        "RxBytes_5sec": 924,
+                        "RxBytes_60sec": 27267,
+                        "RxMcs": 7,
+                        "RxMhz": 20,
+                        "SignalQuality": 100,
+                        "TxBitrate": 72200,
+                        "TxBytes": 109376639,
+                        "TxBytes_15sec": 4008,
+                        "TxBytes_30sec": 9498,
+                        "TxBytes_5sec": 417,
+                        "TxBytes_60sec": 19746,
+                        "TxMcs": 7,
+                        "TxMhz": 20
+                    },
+                    "f0:f0:a4:f1:22:f4": {
+                        "Address": "192.168.182.178",
+                        "HappinessScore": 85,
+                        "Inactive": 0,
+                        "LeaseValidity": 34899,
+                        "MaxBandwidth": 20,
+                        "MaxSpatialStreams": 1,
+                        "Mode": "802.11n",
+                        "RxBitrate": 72200,
+                        "RxBytes": 54030717,
+                        "RxBytes_15sec": 3526,
+                        "RxBytes_30sec": 8341,
+                        "RxBytes_5sec": 924,
+                        "RxBytes_60sec": 14903,
+                        "RxMcs": 7,
+                        "RxMhz": 20,
+                        "SignalQuality": 79,
+                        "TxBitrate": 72200,
+                        "TxBytes": 40654945,
+                        "TxBytes_15sec": 2526,
+                        "TxBytes_30sec": 6006,
+                        "TxBytes_5sec": 417,
+                        "TxBytes_60sec": 10494,
+                        "TxMcs": 7,
+                        "TxMhz": 20
+                    },
+                    "f4:cf:a2:01:6c:1d": {
+                        "Address": "192.168.182.189",
+                        "HappinessScore": 85,
+                        "HostName": "GS_DM_7-3101",
+                        "Inactive": 0,
+                        "LeaseValidity": 39153,
+                        "MaxBandwidth": 20,
+                        "MaxSpatialStreams": 1,
+                        "Mode": "802.11g",
+                        "RxBitrate": 72200,
+                        "RxBytes": 1155578,
+                        "RxBytes_30sec": 170,
+                        "RxBytes_60sec": 280,
+                        "RxMcs": 7,
+                        "RxMhz": 20,
+                        "SignalQuality": 79,
+                        "TxBitrate": 58500,
+                        "TxBytes": 2596964,
+                        "TxBytes_30sec": 152,
+                        "TxBytes_60sec": 262,
+                        "TxMcs": 6,
+                        "TxMhz": 20
+                    },
+                    "fc:77:74:a0:a0:78": {
+                        "Address": "192.168.182.3",
+                        "Description": "LAPTOP-CFOVHIEG",
+                        "HappinessScore": 85,
+                        "HostName": "LAPTOP-CFOVHIEG",
+                        "Inactive": 0,
+                        "LeaseValidity": -1,
+                        "MaxBandwidth": 20,
+                        "MaxSpatialStreams": 2,
+                        "Mode": "802.11n",
+                        "RxBitrate": 72200,
+                        "RxBytes": 76401682,
+                        "RxBytes_15sec": 340787,
+                        "RxBytes_30sec": 747846,
+                        "RxBytes_5sec": 136016,
+                        "RxBytes_60sec": 1118689,
+                        "RxMcs": 7,
+                        "RxMhz": 20,
+                        "SignalQuality": 100,
+                        "TxBitrate": 72200,
+                        "TxBytes": 27241799,
+                        "TxBytes_15sec": 27487,
+                        "TxBytes_30sec": 54692,
+                        "TxBytes_5sec": 10401,
+                        "TxBytes_60sec": 115634,
+                        "TxMcs": 7,
+                        "TxMhz": 20
+                    }
+                }
+            },
+            "5 GHz": {
+                "User network": {
+                    "c4:98:5c:db:40:97": {
+                        "Address": "192.168.182.123",
+                        "HappinessScore": 85,
+                        "HostName": "65TCLRokuTV",
+                        "Inactive": 0,
+                        "LeaseValidity": 40164,
+                        "MaxBandwidth": 80,
+                        "MaxSpatialStreams": 2,
+                        "Mode": "802.11ac",
+                        "RadioMode": "802.11ac",
+                        "RxBitrate": 173000,
+                        "RxBytes": 4294967295,
+                        "RxBytes64": 38232119455,
+                        "RxBytes_15sec": 1230,
+                        "RxBytes_30sec": 2839,
+                        "RxBytes_5sec": 410,
+                        "RxBytes_60sec": 6421,
+                        "RxMcs": 0,
+                        "RxMhz": 20,
+                        "SignalQuality": 94,
+                        "TxBitrate": 6000,
+                        "TxBytes": 225915301,
+                        "TxBytes_15sec": 1703,
+                        "TxBytes_30sec": 2683,
+                        "TxBytes_5sec": 1283,
+                        "TxBytes_60sec": 4467,
+                        "TxMcs": 0,
+                        "TxMhz": 20
+                    },
+                    "fe:16:5e:da:96:1c": {
+                        "Address": "192.168.182.173",
+                        "HappinessScore": 100,
+                        "HostName": "Ghost",
+                        "Inactive": 0,
+                        "LeaseValidity": 42827,
+                        "MaxBandwidth": 80,
+                        "MaxSpatialStreams": 2,
+                        "Mode": "802.11ac",
+                        "RadioMode": "802.11ax",
+                        "RxBitrate": 866700,
+                        "RxBytes": 278602,
+                        "RxBytes_15sec": 692,
+                        "RxBytes_30sec": 34866,
+                        "RxBytes_60sec": 78773,
+                        "RxMcs": 9,
+                        "RxMhz": 80,
+                        "SignalQuality": 97,
+                        "TxBitrate": 866700,
+                        "TxBytes": 232066,
+                        "TxBytes_15sec": 1271,
+                        "TxBytes_30sec": 10224,
+                        "TxBytes_5sec": 152,
+                        "TxBytes_60sec": 18090,
+                        "TxMcs": 9,
+                        "TxMhz": 80
+                    }
+                }
+            }
+        }
+    },
+    {
+        "08:5b:d6:82:1b:67": {
+            "connection": "wireless",
+            "host_name": "SHANE-I7",
+            "icon_id": 3797,
+            "ip": "192.168.182.218",
+            "lease_validity": 41564
+        },
+        "1c:69:7a:65:66:12": {
+            "connection": "ethernet",
+            "description": "shanenuc-NUC8i5BEHS",
+            "host_name": "shanenuc-NUC8i5BEHS",
+            "icon_id": 3798,
+            "ip": "192.168.182.5",
+            "lease_validity": -1,
+            "manufacturer": "Elitegroup Computer Systems Co, Ltd",
+            "port": 1
+        },
+        "24:62:ab:35:cf:23": {
+            "connection": "wireless",
+            "host_name": "LH_LB_28-3875",
+            "icon_id": 3797,
+            "ip": "192.168.182.157",
+            "lease_validity": 39149,
+            "manufacturer": "Espressif Inc"
+        },
+        "24:62:ab:35:d1:2c": {
+            "connection": "wireless",
+            "host_name": "LH_LB_08-4396",
+            "icon_id": 3797,
+            "ip": "192.168.182.147",
+            "lease_validity": 34883,
+            "manufacturer": "Espressif Inc"
+        },
+        "24:62:ab:35:d4:21": {
+            "connection": "wireless",
+            "host_name": "LH_LB_32-5153",
+            "icon_id": 3797,
+            "ip": "192.168.182.215",
+            "lease_validity": 39146,
+            "manufacturer": "Espressif Inc"
+        },
+        "24:62:ab:35:d5:ff": {
+            "connection": "wireless",
+            "host_name": "LH_LB_17-5631",
+            "icon_id": 3797,
+            "ip": "192.168.182.233",
+            "lease_validity": 42753,
+            "manufacturer": "Espressif Inc"
+        },
+        "24:62:ab:36:29:3d": {
+            "connection": "wireless",
+            "host_name": "LH_LB_29-2365",
+            "icon_id": 3797,
+            "ip": "192.168.182.241",
+            "lease_validity": 35553,
+            "manufacturer": "Espressif Inc"
+        },
+        "24:62:ab:36:2a:db": {
+            "connection": "wireless",
+            "host_name": "LH_LB_30-2779",
+            "icon_id": 3797,
+            "ip": "192.168.182.206",
+            "lease_validity": 42754,
+            "manufacturer": "Espressif Inc"
+        },
+        "24:62:ab:36:2c:0b": {
+            "connection": "wireless",
+            "host_name": "LH_LB_7-3083",
+            "icon_id": 3797,
+            "ip": "192.168.182.248",
+            "lease_validity": 39153,
+            "manufacturer": "Espressif Inc"
+        },
+        "24:62:ab:36:2d:23": {
+            "connection": "wireless",
+            "host_name": "LH_LB_33-3363",
+            "icon_id": 3797,
+            "ip": "192.168.182.224",
+            "lease_validity": 39150,
+            "manufacturer": "Espressif Inc"
+        },
+        "24:62:ab:36:2d:39": {
+            "connection": "wireless",
+            "host_name": "LH_LB_24-3385",
+            "icon_id": 3797,
+            "ip": "192.168.182.239",
+            "lease_validity": 39153,
+            "manufacturer": "Espressif Inc"
+        },
+        "24:62:ab:41:3e:33": {
+            "connection": "wireless",
+            "host_name": "LH_LB_22-7731",
+            "icon_id": 3797,
+            "ip": "192.168.182.139",
+            "lease_validity": 39150,
+            "manufacturer": "Espressif Inc"
+        },
+        "24:62:ab:43:9e:88": {
+            "connection": "wireless",
+            "host_name": "LH_LB_11-7816",
+            "icon_id": 3797,
+            "ip": "192.168.182.219",
+            "lease_validity": 39155,
+            "manufacturer": "Espressif Inc"
+        },
+        "24:62:ab:49:30:66": {
+            "connection": "wireless",
+            "host_name": "GS_DM_11-4198",
+            "icon_id": 3797,
+            "ip": "192.168.182.235",
+            "lease_validity": 35543,
+            "manufacturer": "Espressif Inc"
+        },
+        "24:62:ab:4d:05:d4": {
+            "connection": "wireless",
+            "host_name": "BN_PL_04-1492",
+            "icon_id": 3797,
+            "ip": "192.168.182.225",
+            "lease_validity": 35550,
+            "manufacturer": "Espressif Inc"
+        },
+        "2c:f4:32:b5:7b:38": {
+            "connection": "wireless",
+            "host_name": "LH_LB_34-6968",
+            "icon_id": 3797,
+            "ip": "192.168.182.128",
+            "lease_validity": 35553,
+            "manufacturer": "Espressif Inc"
+        },
+        "2c:f4:32:c3:4c:99": {
+            "connection": "wireless",
+            "host_name": "LH_LB_3-3225",
+            "icon_id": 3797,
+            "ip": "192.168.182.236",
+            "lease_validity": 35554,
+            "manufacturer": "Espressif Inc"
+        },
+        "3e:06:f1:c9:09:70": {
+            "connection": "wireless",
+            "custom_info": {
+                "fingerprint": {
+                    "device_model_hint": "Google Pixel 5"
+                }
+            },
+            "device_model_hint": "Google Pixel 5",
+            "host_name": "Pixel-5",
+            "icon_id": 3797,
+            "ip": "192.168.182.152",
+            "lease_validity": 39179
+        },
+        "44:61:32:a1:1e:cc": {
+            "connection": "wireless",
+            "host_name": "Thermostat",
+            "icon_id": 3797,
+            "ip": "192.168.182.229",
+            "lease_validity": 32096,
+            "manufacturer": "ecobee Inc"
+        },
+        "74:58:f3:cc:a3:40": {
+            "connection": "wireless",
+            "icon_id": 3797,
+            "ip": "192.168.182.133",
+            "lease_validity": 31988
+        },
+        "8c:18:d9:9f:11:67": {
+            "connection": "wireless",
+            "icon_id": 3797,
+            "ip": "192.168.182.234",
+            "lease_validity": 42875,
+            "manufacturer": "Shenzhen RF Tech Co, Ltd"
+        },
+        "90:3a:e6:33:f0:8a": {
+            "connection": "wireless",
+            "custom_info": {
+                "fingerprint": {
+                    "device_id": 3192
+                }
+            },
+            "description": "Tesla",
+            "icon_id": 3192,
+            "ip": "192.168.182.203",
+            "lease_validity": 37994,
+            "manufacturer": "Parrot SA"
+        },
+        "bc:dd:c2:97:86:85": {
+            "connection": "wireless",
+            "host_name": "LH_LBX_07-1669",
+            "icon_id": 3797,
+            "ip": "192.168.182.237",
+            "lease_validity": 39143,
+            "manufacturer": "Espressif Inc"
+        },
+        "bc:dd:c2:97:86:92": {
+            "connection": "wireless",
+            "host_name": "LH_LBX_01-1682",
+            "icon_id": 3797,
+            "ip": "192.168.182.156",
+            "lease_validity": 39150,
+            "manufacturer": "Espressif Inc"
+        },
+        "bc:dd:c2:97:86:bf": {
+            "connection": "wireless",
+            "host_name": "LH_LBX_02-1727",
+            "icon_id": 3797,
+            "ip": "192.168.182.121",
+            "lease_validity": 35553,
+            "manufacturer": "Espressif Inc"
+        },
+        "bc:dd:c2:97:87:54": {
+            "connection": "wireless",
+            "host_name": "LH_LBX_03-1876",
+            "icon_id": 3797,
+            "ip": "192.168.182.197",
+            "lease_validity": 39150,
+            "manufacturer": "Espressif Inc"
+        },
+        "bc:dd:c2:97:87:a3": {
+            "connection": "wireless",
+            "host_name": "LH_LBX_04-1955",
+            "icon_id": 3797,
+            "ip": "192.168.182.214",
+            "lease_validity": 39152,
+            "manufacturer": "Espressif Inc"
+        },
+        "bc:dd:c2:97:88:41": {
+            "connection": "wireless",
+            "host_name": "LH_LBX_08-2113",
+            "icon_id": 3797,
+            "ip": "192.168.182.107",
+            "lease_validity": 39149,
+            "manufacturer": "Espressif Inc"
+        },
+        "bc:dd:c2:97:88:45": {
+            "connection": "wireless",
+            "host_name": "LH_LBX_09-2117",
+            "icon_id": 3797,
+            "ip": "192.168.182.247",
+            "lease_validity": 39144,
+            "manufacturer": "Espressif Inc"
+        },
+        "bc:dd:c2:97:88:63": {
+            "connection": "wireless",
+            "host_name": "LH_LBX_05-2147",
+            "icon_id": 3797,
+            "ip": "192.168.182.177",
+            "lease_validity": 39151,
+            "manufacturer": "Espressif Inc"
+        },
+        "c4:4f:33:c6:f1:3c": {
+            "connection": "wireless",
+            "host_name": "GS_SW_4-4412",
+            "icon_id": 3797,
+            "ip": "192.168.182.108",
+            "lease_validity": 23329,
+            "manufacturer": "Espressif Inc"
+        },
+        "c4:4f:33:c6:f1:5e": {
+            "connection": "wireless",
+            "host_name": "GS_SW_5-4446",
+            "icon_id": 3797,
+            "ip": "192.168.182.182",
+            "lease_validity": 39151,
+            "manufacturer": "Espressif Inc"
+        },
+        "c4:4f:33:c6:f2:8e": {
+            "connection": "wireless",
+            "host_name": "GS_SW_15-4750",
+            "icon_id": 3797,
+            "ip": "192.168.182.246",
+            "lease_validity": 25650,
+            "manufacturer": "Espressif Inc"
+        },
+        "c4:4f:33:c6:f7:1b": {
+            "connection": "wireless",
+            "host_name": "GS_SW_10-5915",
+            "icon_id": 3797,
+            "ip": "192.168.182.199",
+            "lease_validity": 42751,
+            "manufacturer": "Espressif Inc"
+        },
+        "c4:4f:33:c6:f7:d5": {
+            "connection": "wireless",
+            "host_name": "GS_SW_14-6101",
+            "icon_id": 3797,
+            "ip": "192.168.182.222",
+            "lease_validity": 39140,
+            "manufacturer": "Espressif Inc"
+        },
+        "c4:4f:33:ca:2d:88": {
+            "connection": "wireless",
+            "host_name": "GS_SW_7-3464",
+            "icon_id": 3797,
+            "ip": "192.168.182.101",
+            "lease_validity": 39152,
+            "manufacturer": "Espressif Inc"
+        },
+        "c4:4f:33:ca:37:7d": {
+            "connection": "wireless",
+            "host_name": "GS_SW_6-6013",
+            "icon_id": 3797,
+            "ip": "192.168.182.105",
+            "lease_validity": 42753,
+            "manufacturer": "Espressif Inc"
+        },
+        "c4:4f:33:ca:40:82": {
+            "connection": "wireless",
+            "host_name": "GS_SW_3-0130",
+            "icon_id": 3797,
+            "ip": "192.168.182.223",
+            "lease_validity": 39147,
+            "manufacturer": "Espressif Inc"
+        },
+        "c4:98:5c:db:40:97": {
+            "connection": "wireless",
+            "host_name": "65TCLRokuTV",
+            "icon_id": 3797,
+            "ip": "192.168.182.123",
+            "lease_validity": 40161,
+            "manufacturer": "Hui Zhou Gaoshengda Tech Co, Ltd"
+        },
+        "c8:2b:96:56:41:45": {
+            "connection": "wireless",
+            "host_name": "GS_SW_18-0325",
+            "icon_id": 3797,
+            "ip": "192.168.182.192",
+            "lease_validity": 42741,
+            "manufacturer": "Espressif Inc"
+        },
+        "c8:2b:96:56:52:7b": {
+            "connection": "wireless",
+            "host_name": "GS_SW_17-4731",
+            "icon_id": 3797,
+            "ip": "192.168.182.181",
+            "lease_validity": 42750,
+            "manufacturer": "Espressif Inc"
+        },
+        "c8:2b:96:56:bc:8e": {
+            "connection": "wireless",
+            "host_name": "GS_DM_3-7310",
+            "icon_id": 3797,
+            "ip": "192.168.182.242",
+            "lease_validity": 42752,
+            "manufacturer": "Espressif Inc"
+        },
+        "c8:2b:96:56:c5:d3": {
+            "connection": "wireless",
+            "host_name": "GS_DM_4-1491",
+            "icon_id": 3797,
+            "ip": "192.168.182.245",
+            "lease_validity": 42748,
+            "manufacturer": "Espressif Inc"
+        },
+        "c8:2b:96:56:ca:e4": {
+            "connection": "wireless",
+            "host_name": "GS_DM_6-2788",
+            "icon_id": 3797,
+            "ip": "192.168.182.144",
+            "lease_validity": 39150,
+            "manufacturer": "Espressif Inc"
+        },
+        "c8:2b:96:56:cd:59": {
+            "connection": "wireless",
+            "host_name": "GS_DM_16-3417",
+            "icon_id": 3797,
+            "ip": "192.168.182.226",
+            "lease_validity": 42751,
+            "manufacturer": "Espressif Inc"
+        },
+        "c8:2b:96:56:cd:67": {
+            "connection": "wireless",
+            "host_name": "GS_DM_14-3431",
+            "icon_id": 3797,
+            "ip": "192.168.182.174",
+            "lease_validity": 35550,
+            "manufacturer": "Espressif Inc"
+        },
+        "c8:2b:96:56:d1:e4": {
+            "connection": "wireless",
+            "host_name": "GS_DM_15-4580",
+            "icon_id": 3797,
+            "ip": "192.168.182.180",
+            "lease_validity": 39148,
+            "manufacturer": "Espressif Inc"
+        },
+        "c8:2b:96:56:d7:00": {
+            "connection": "wireless",
+            "host_name": "GS_DM_2-5888",
+            "icon_id": 3797,
+            "ip": "192.168.182.155",
+            "lease_validity": 39144,
+            "manufacturer": "Espressif Inc"
+        },
+        "c8:2b:96:56:db:0f": {
+            "connection": "wireless",
+            "host_name": "GS_DM_1-6927",
+            "icon_id": 3797,
+            "ip": "192.168.182.112",
+            "lease_validity": 39150,
+            "manufacturer": "Espressif Inc"
+        },
+        "c8:2b:96:56:dc:1c": {
+            "connection": "wireless",
+            "host_name": "GS_DM_8-7196",
+            "icon_id": 3797,
+            "ip": "192.168.182.211",
+            "lease_validity": 35551,
+            "manufacturer": "Espressif Inc"
+        },
+        "c8:2b:96:56:f0:fc": {
+            "connection": "wireless",
+            "host_name": "GS_DM_9-4348",
+            "icon_id": 3797,
+            "ip": "192.168.182.103",
+            "lease_validity": 35553,
+            "manufacturer": "Espressif Inc"
+        },
+        "c8:2b:96:56:f1:34": {
+            "connection": "wireless",
+            "host_name": "GS_DM_12-4404",
+            "icon_id": 3797,
+            "ip": "192.168.182.158",
+            "lease_validity": 39149,
+            "manufacturer": "Espressif Inc"
+        },
+        "c8:2b:96:5c:c9:e0": {
+            "connection": "wireless",
+            "host_name": "GS_SW_13-2528",
+            "icon_id": 3797,
+            "ip": "192.168.182.141",
+            "lease_validity": 39145,
+            "manufacturer": "Espressif Inc"
+        },
+        "c8:2b:96:5c:cd:3e": {
+            "connection": "wireless",
+            "host_name": "GS_SW_19-3390",
+            "icon_id": 3797,
+            "ip": "192.168.182.204",
+            "lease_validity": 42750,
+            "manufacturer": "Espressif Inc"
+        },
+        "c8:2b:96:5c:d0:a4": {
+            "connection": "wireless",
+            "host_name": "GS_SW_1-4260",
+            "icon_id": 3797,
+            "ip": "192.168.182.114",
+            "lease_validity": 39148,
+            "manufacturer": "Espressif Inc"
+        },
+        "c8:2b:96:5c:d1:38": {
+            "connection": "wireless",
+            "host_name": "GS_SW_20-4408",
+            "icon_id": 3797,
+            "ip": "192.168.182.160",
+            "lease_validity": 42750,
+            "manufacturer": "Espressif Inc"
+        },
+        "c8:2b:96:5c:d3:83": {
+            "connection": "wireless",
+            "host_name": "GS_SW_11-4995",
+            "icon_id": 3797,
+            "ip": "192.168.182.113",
+            "lease_validity": 39147,
+            "manufacturer": "Espressif Inc"
+        },
+        "c8:2b:96:5c:d6:66": {
+            "connection": "wireless",
+            "host_name": "GS_SW_12-5734",
+            "icon_id": 3797,
+            "ip": "192.168.182.240",
+            "lease_validity": 39141,
+            "manufacturer": "Espressif Inc"
+        },
+        "c8:2b:96:c2:5c:28": {
+            "connection": "wireless",
+            "host_name": "GS_DM_10-7208",
+            "icon_id": 3797,
+            "ip": "192.168.182.163",
+            "lease_validity": 35552,
+            "manufacturer": "Espressif Inc"
+        },
+        "c8:2b:96:c2:5c:f1": {
+            "connection": "wireless",
+            "host_name": "GS_DM_5-7409",
+            "icon_id": 3797,
+            "ip": "192.168.182.151",
+            "lease_validity": 39146,
+            "manufacturer": "Espressif Inc"
+        },
+        "c8:2b:96:c2:5d:e2": {
+            "connection": "wireless",
+            "host_name": "GS_DM_13-7650",
+            "icon_id": 3797,
+            "ip": "192.168.182.201",
+            "lease_validity": 39150,
+            "manufacturer": "Espressif Inc"
+        },
+        "d8:f1:5b:86:4c:c5": {
+            "connection": "wireless",
+            "host_name": "LH_LB_10-3269",
+            "icon_id": 3797,
+            "ip": "192.168.182.120",
+            "lease_validity": 32216,
+            "manufacturer": "Espressif Inc"
+        },
+        "d8:f1:5b:86:52:a6": {
+            "connection": "wireless",
+            "host_name": "LH_LB_31-4774",
+            "icon_id": 3797,
+            "ip": "192.168.182.146",
+            "lease_validity": 39144,
+            "manufacturer": "Espressif Inc"
+        },
+        "d8:f1:5b:86:7b:23": {
+            "connection": "wireless",
+            "host_name": "LH_LB_19-6947",
+            "icon_id": 3797,
+            "ip": "192.168.182.202",
+            "lease_validity": 39150,
+            "manufacturer": "Espressif Inc"
+        },
+        "d8:f1:5b:86:8c:73": {
+            "connection": "wireless",
+            "host_name": "LH_LB_35-3187",
+            "icon_id": 3797,
+            "ip": "192.168.182.179",
+            "lease_validity": 39151,
+            "manufacturer": "Espressif Inc"
+        },
+        "d8:f1:5b:b7:60:08": {
+            "connection": "wireless",
+            "host_name": "BN_PL_03-0008",
+            "icon_id": 3797,
+            "ip": "192.168.182.216",
+            "lease_validity": 39150,
+            "manufacturer": "Espressif Inc"
+        },
+        "d8:f1:5b:de:5c:3e": {
+            "connection": "wireless",
+            "host_name": "GS_SW_2-7230",
+            "icon_id": 3797,
+            "ip": "192.168.182.109",
+            "lease_validity": 33748,
+            "manufacturer": "Espressif Inc"
+        },
+        "d8:f1:5b:e2:24:a1": {
+            "connection": "wireless",
+            "host_name": "LH_LB_4-1185",
+            "icon_id": 3797,
+            "ip": "192.168.182.100",
+            "lease_validity": 39148,
+            "manufacturer": "Espressif Inc"
+        },
+        "d8:f1:5b:e2:65:94": {
+            "connection": "wireless",
+            "host_name": "LH_LB_02-1428",
+            "icon_id": 3797,
+            "ip": "192.168.182.131",
+            "lease_validity": 38535,
+            "manufacturer": "Espressif Inc"
+        },
+        "dc:4f:22:53:cc:ac": {
+            "connection": "wireless",
+            "host_name": "LH_LBX_10-3244",
+            "icon_id": 3797,
+            "ip": "192.168.182.129",
+            "lease_validity": 39158,
+            "manufacturer": "Espressif Inc"
+        },
+        "dc:4f:22:57:30:c6": {
+            "connection": "wireless",
+            "host_name": "LH_LBX_06-4294",
+            "icon_id": 3797,
+            "ip": "192.168.182.102",
+            "lease_validity": 39148,
+            "manufacturer": "Espressif Inc"
+        },
+        "dc:4f:22:b6:15:b1": {
+            "connection": "wireless",
+            "host_name": "LH_LB_25-5553",
+            "icon_id": 3797,
+            "ip": "192.168.182.243",
+            "lease_validity": 35546,
+            "manufacturer": "Espressif Inc"
+        },
+        "dc:4f:22:b6:15:c1": {
+            "connection": "wireless",
+            "host_name": "LH_LB_23-5569",
+            "icon_id": 3797,
+            "ip": "192.168.182.106",
+            "lease_validity": 35548,
+            "manufacturer": "Espressif Inc"
+        },
+        "dc:4f:22:b6:29:33": {
+            "connection": "wireless",
+            "host_name": "LH_LB_26-2355",
+            "icon_id": 3797,
+            "ip": "192.168.182.136",
+            "lease_validity": 39149,
+            "manufacturer": "Espressif Inc"
+        },
+        "dc:4f:22:b7:0b:6e": {
+            "connection": "wireless",
+            "host_name": "LH_LB_27-2926",
+            "icon_id": 3797,
+            "ip": "192.168.182.169",
+            "lease_validity": 42753,
+            "manufacturer": "Espressif Inc"
+        },
+        "dc:4f:22:bf:6c:7d": {
+            "connection": "wireless",
+            "host_name": "BN_PL_02-3197",
+            "icon_id": 3797,
+            "ip": "192.168.182.212",
+            "lease_validity": 39152,
+            "manufacturer": "Espressif Inc"
+        },
+        "f0:f0:a4:7c:77:2d": {
+            "connection": "wireless",
+            "icon_id": 3797,
+            "ip": "192.168.182.191",
+            "lease_validity": 32519,
+            "manufacturer": "Amazon Tech Inc"
+        },
+        "f0:f0:a4:f1:22:f4": {
+            "connection": "wireless",
+            "icon_id": 3797,
+            "ip": "192.168.182.178",
+            "lease_validity": 34896,
+            "manufacturer": "Amazon Tech Inc"
+        },
+        "f4:cf:a2:01:6c:1d": {
+            "connection": "wireless",
+            "host_name": "GS_DM_7-3101",
+            "icon_id": 3797,
+            "ip": "192.168.182.189",
+            "lease_validity": 39150,
+            "manufacturer": "Espressif Inc"
+        },
+        "fc:77:74:a0:a0:78": {
+            "connection": "wireless",
+            "custom_info": {
+                "fingerprint": {
+                    "device_id": 2809
+                }
+            },
+            "description": "LAPTOP-CFOVHIEG",
+            "host_name": "LAPTOP-CFOVHIEG",
+            "icon_id": 2809,
+            "ip": "192.168.182.3",
+            "lease_validity": -1,
+            "manufacturer": "Intel Corp"
+        },
+        "fe:16:5e:da:96:1c": {
+            "connection": "wireless",
+            "host_name": "Ghost",
+            "icon_id": 3797,
+            "ip": "192.168.182.173",
+            "lease_validity": 42824
+        }
+    },
+    {
+        "74:ac:b9:38:3a:19": {
+            "1c:69:7a:65:66:12": 1
+        }
+    },
+    {
+        "74:ac:b9:38:3a:19": {
+            "eth-0": {
+                "link": true,
+                "link_speed": 1000,
+                "rx_bitrate": 7,
+                "tx_bitrate": 1
+            },
+            "eth-1": {
+                "link": true,
+                "link_speed": 1000,
+                "rx_bitrate": 0,
+                "tx_bitrate": 20
+            },
+            "eth-2": {
+                "link": false
+            },
+            "eth-3": {
+                "link": false
+            },
+            "eth-4": {
+                "link": false
+            }
+        }
+    },
+    {
+        "08:5b:d6:82:1b:67": {
+            "device": {
+                "host_name": "SHANE-I7",
+                "id": 3797,
+                "model_name": "Wireless",
+                "name": "SHANE-I7"
+            }
+        },
+        "1c:69:7a:65:66:12": {
+            "device": {
+                "host_name": "shanenuc-NUC8i5BEHS",
+                "id": 3798,
+                "model_name": "Ethernet",
+                "name": "shanenuc-NUC8i5BEHS",
+                "vendor": "Elitegroup Computer Systems Co, Ltd"
+            }
+        },
+        "24:62:ab:35:cf:23": {
+            "device": {
+                "host_name": "LH_LB_28-3875",
+                "id": 3797,
+                "model_name": "Wireless",
+                "name": "LH_LB_28-3875",
+                "vendor": "Espressif Inc"
+            }
+        },
+        "24:62:ab:35:d1:2c": {
+            "device": {
+                "host_name": "LH_LB_08-4396",
+                "id": 3797,
+                "model_name": "Wireless",
+                "name": "LH_LB_08-4396",
+                "vendor": "Espressif Inc"
+            }
+        },
+        "24:62:ab:35:d4:21": {
+            "device": {
+                "host_name": "LH_LB_32-5153",
+                "id": 3797,
+                "model_name": "Wireless",
+                "name": "LH_LB_32-5153",
+                "vendor": "Espressif Inc"
+            }
+        },
+        "24:62:ab:35:d5:ff": {
+            "device": {
+                "host_name": "LH_LB_17-5631",
+                "id": 3797,
+                "model_name": "Wireless",
+                "name": "LH_LB_17-5631",
+                "vendor": "Espressif Inc"
+            }
+        },
+        "24:62:ab:36:29:3d": {
+            "device": {
+                "host_name": "LH_LB_29-2365",
+                "id": 3797,
+                "model_name": "Wireless",
+                "name": "LH_LB_29-2365",
+                "vendor": "Espressif Inc"
+            }
+        },
+        "24:62:ab:36:2a:db": {
+            "device": {
+                "host_name": "LH_LB_30-2779",
+                "id": 3797,
+                "model_name": "Wireless",
+                "name": "LH_LB_30-2779",
+                "vendor": "Espressif Inc"
+            }
+        },
+        "24:62:ab:36:2c:0b": {
+            "device": {
+                "host_name": "LH_LB_7-3083",
+                "id": 3797,
+                "model_name": "Wireless",
+                "name": "LH_LB_7-3083",
+                "vendor": "Espressif Inc"
+            }
+        },
+        "24:62:ab:36:2d:23": {
+            "device": {
+                "host_name": "LH_LB_33-3363",
+                "id": 3797,
+                "model_name": "Wireless",
+                "name": "LH_LB_33-3363",
+                "vendor": "Espressif Inc"
+            }
+        },
+        "24:62:ab:36:2d:39": {
+            "device": {
+                "host_name": "LH_LB_24-3385",
+                "id": 3797,
+                "model_name": "Wireless",
+                "name": "LH_LB_24-3385",
+                "vendor": "Espressif Inc"
+            }
+        },
+        "24:62:ab:41:3e:33": {
+            "device": {
+                "host_name": "LH_LB_22-7731",
+                "id": 3797,
+                "model_name": "Wireless",
+                "name": "LH_LB_22-7731",
+                "vendor": "Espressif Inc"
+            }
+        },
+        "24:62:ab:43:9e:88": {
+            "device": {
+                "host_name": "LH_LB_11-7816",
+                "id": 3797,
+                "model_name": "Wireless",
+                "name": "LH_LB_11-7816",
+                "vendor": "Espressif Inc"
+            }
+        },
+        "24:62:ab:49:30:66": {
+            "device": {
+                "host_name": "GS_DM_11-4198",
+                "id": 3797,
+                "model_name": "Wireless",
+                "name": "GS_DM_11-4198",
+                "vendor": "Espressif Inc"
+            }
+        },
+        "24:62:ab:4d:05:d4": {
+            "device": {
+                "host_name": "BN_PL_04-1492",
+                "id": 3797,
+                "model_name": "Wireless",
+                "name": "BN_PL_04-1492",
+                "vendor": "Espressif Inc"
+            }
+        },
+        "2c:f4:32:b5:7b:38": {
+            "device": {
+                "host_name": "LH_LB_34-6968",
+                "id": 3797,
+                "model_name": "Wireless",
+                "name": "LH_LB_34-6968",
+                "vendor": "Espressif Inc"
+            }
+        },
+        "2c:f4:32:c3:4c:99": {
+            "device": {
+                "host_name": "LH_LB_3-3225",
+                "id": 3797,
+                "model_name": "Wireless",
+                "name": "LH_LB_3-3225",
+                "vendor": "Espressif Inc"
+            }
+        },
+        "3e:06:f1:c9:09:70": {
+            "device": {
+                "host_name": "Pixel-5",
+                "id": 3797,
+                "model_name": "Wireless",
+                "name": "Pixel-5"
+            }
+        },
+        "44:61:32:a1:1e:cc": {
+            "bonjour": {
+                "ip": "192.168.182.229",
+                "services": [
+                    "521763131313-0._spotify-connect._tcp.local",
+                    "521763131313-0.local",
+                    "_spotify-connect._tcp.local"
+                ]
+            },
+            "device": {
+                "host_name": "Thermostat",
+                "id": 3797,
+                "model_name": "Wireless",
+                "name": "Thermostat",
+                "vendor": "ecobee Inc"
+            }
+        },
+        "74:58:f3:cc:a3:40": {
+            "device": {
+                "id": 3797,
+                "model_name": "Wireless"
+            }
+        },
+        "8c:18:d9:9f:11:67": {
+            "device": {
+                "id": 3797,
+                "model_name": "Wireless",
+                "name": "Shenzhen RF Tech Co, Ltd",
+                "vendor": "Shenzhen RF Tech Co, Ltd"
+            }
+        },
+        "90:3a:e6:33:f0:8a": {
+            "device": {
+                "id": 3797,
+                "model_name": "Wireless",
+                "name": "Parrot SA",
+                "vendor": "Parrot SA"
+            }
+        },
+        "bc:dd:c2:97:86:85": {
+            "device": {
+                "host_name": "LH_LBX_07-1669",
+                "id": 3797,
+                "model_name": "Wireless",
+                "name": "LH_LBX_07-1669",
+                "vendor": "Espressif Inc"
+            }
+        },
+        "bc:dd:c2:97:86:92": {
+            "device": {
+                "host_name": "LH_LBX_01-1682",
+                "id": 3797,
+                "model_name": "Wireless",
+                "name": "LH_LBX_01-1682",
+                "vendor": "Espressif Inc"
+            }
+        },
+        "bc:dd:c2:97:86:bf": {
+            "device": {
+                "host_name": "LH_LBX_02-1727",
+                "id": 3797,
+                "model_name": "Wireless",
+                "name": "LH_LBX_02-1727",
+                "vendor": "Espressif Inc"
+            }
+        },
+        "bc:dd:c2:97:87:54": {
+            "device": {
+                "host_name": "LH_LBX_03-1876",
+                "id": 3797,
+                "model_name": "Wireless",
+                "name": "LH_LBX_03-1876",
+                "vendor": "Espressif Inc"
+            }
+        },
+        "bc:dd:c2:97:87:a3": {
+            "device": {
+                "host_name": "LH_LBX_04-1955",
+                "id": 3797,
+                "model_name": "Wireless",
+                "name": "LH_LBX_04-1955",
+                "vendor": "Espressif Inc"
+            }
+        },
+        "bc:dd:c2:97:88:41": {
+            "device": {
+                "host_name": "LH_LBX_08-2113",
+                "id": 3797,
+                "model_name": "Wireless",
+                "name": "LH_LBX_08-2113",
+                "vendor": "Espressif Inc"
+            }
+        },
+        "bc:dd:c2:97:88:45": {
+            "device": {
+                "host_name": "LH_LBX_09-2117",
+                "id": 3797,
+                "model_name": "Wireless",
+                "name": "LH_LBX_09-2117",
+                "vendor": "Espressif Inc"
+            }
+        },
+        "bc:dd:c2:97:88:63": {
+            "device": {
+                "host_name": "LH_LBX_05-2147",
+                "id": 3797,
+                "model_name": "Wireless",
+                "name": "LH_LBX_05-2147",
+                "vendor": "Espressif Inc"
+            }
+        },
+        "c4:4f:33:c6:f1:3c": {
+            "device": {
+                "host_name": "GS_SW_4-4412",
+                "id": 3797,
+                "model_name": "Wireless",
+                "name": "GS_SW_4-4412",
+                "vendor": "Espressif Inc"
+            }
+        },
+        "c4:4f:33:c6:f1:5e": {
+            "device": {
+                "host_name": "GS_SW_5-4446",
+                "id": 3797,
+                "model_name": "Wireless",
+                "name": "GS_SW_5-4446",
+                "vendor": "Espressif Inc"
+            }
+        },
+        "c4:4f:33:c6:f2:8e": {
+            "device": {
+                "host_name": "GS_SW_15-4750",
+                "id": 3797,
+                "model_name": "Wireless",
+                "name": "GS_SW_15-4750",
+                "vendor": "Espressif Inc"
+            }
+        },
+        "c4:4f:33:c6:f7:1b": {
+            "device": {
+                "host_name": "GS_SW_10-5915",
+                "id": 3797,
+                "model_name": "Wireless",
+                "name": "GS_SW_10-5915",
+                "vendor": "Espressif Inc"
+            }
+        },
+        "c4:4f:33:c6:f7:d5": {
+            "device": {
+                "host_name": "GS_SW_14-6101",
+                "id": 3797,
+                "model_name": "Wireless",
+                "name": "GS_SW_14-6101",
+                "vendor": "Espressif Inc"
+            }
+        },
+        "c4:4f:33:ca:2d:88": {
+            "device": {
+                "host_name": "GS_SW_7-3464",
+                "id": 3797,
+                "model_name": "Wireless",
+                "name": "GS_SW_7-3464",
+                "vendor": "Espressif Inc"
+            }
+        },
+        "c4:4f:33:ca:37:7d": {
+            "device": {
+                "host_name": "GS_SW_6-6013",
+                "id": 3797,
+                "model_name": "Wireless",
+                "name": "GS_SW_6-6013",
+                "vendor": "Espressif Inc"
+            }
+        },
+        "c4:4f:33:ca:40:82": {
+            "device": {
+                "host_name": "GS_SW_3-0130",
+                "id": 3797,
+                "model_name": "Wireless",
+                "name": "GS_SW_3-0130",
+                "vendor": "Espressif Inc"
+            }
+        },
+        "c4:98:5c:db:40:97": {
+            "bonjour": {
+                "ip": "192.168.182.123",
+                "services": [
+                    "65in TCL Roku TV._airplay._tcp.local",
+                    "TCL 7133X 0C53._hap._tcp.local",
+                    "[MSOS][Utopia]:.local",
+                    "_airplay._tcp.local",
+                    "_hap._tcp.local"
+                ]
+            },
+            "device": {
+                "host_name": "65TCLRokuTV",
+                "id": 3797,
+                "model_name": "Wireless",
+                "name": "65TCLRokuTV",
+                "vendor": "Hui Zhou Gaoshengda Tech Co, Ltd"
+            }
+        },
+        "c8:2b:96:56:41:45": {
+            "device": {
+                "host_name": "GS_SW_18-0325",
+                "id": 3797,
+                "model_name": "Wireless",
+                "name": "GS_SW_18-0325",
+                "vendor": "Espressif Inc"
+            }
+        },
+        "c8:2b:96:56:52:7b": {
+            "device": {
+                "host_name": "GS_SW_17-4731",
+                "id": 3797,
+                "model_name": "Wireless",
+                "name": "GS_SW_17-4731",
+                "vendor": "Espressif Inc"
+            }
+        },
+        "c8:2b:96:56:bc:8e": {
+            "device": {
+                "host_name": "GS_DM_3-7310",
+                "id": 3797,
+                "model_name": "Wireless",
+                "name": "GS_DM_3-7310",
+                "vendor": "Espressif Inc"
+            }
+        },
+        "c8:2b:96:56:c5:d3": {
+            "device": {
+                "host_name": "GS_DM_4-1491",
+                "id": 3797,
+                "model_name": "Wireless",
+                "name": "GS_DM_4-1491",
+                "vendor": "Espressif Inc"
+            }
+        },
+        "c8:2b:96:56:ca:e4": {
+            "device": {
+                "host_name": "GS_DM_6-2788",
+                "id": 3797,
+                "model_name": "Wireless",
+                "name": "GS_DM_6-2788",
+                "vendor": "Espressif Inc"
+            }
+        },
+        "c8:2b:96:56:cd:59": {
+            "device": {
+                "host_name": "GS_DM_16-3417",
+                "id": 3797,
+                "model_name": "Wireless",
+                "name": "GS_DM_16-3417",
+                "vendor": "Espressif Inc"
+            }
+        },
+        "c8:2b:96:56:cd:67": {
+            "device": {
+                "host_name": "GS_DM_14-3431",
+                "id": 3797,
+                "model_name": "Wireless",
+                "name": "GS_DM_14-3431",
+                "vendor": "Espressif Inc"
+            }
+        },
+        "c8:2b:96:56:d1:e4": {
+            "device": {
+                "host_name": "GS_DM_15-4580",
+                "id": 3797,
+                "model_name": "Wireless",
+                "name": "GS_DM_15-4580",
+                "vendor": "Espressif Inc"
+            }
+        },
+        "c8:2b:96:56:d7:00": {
+            "device": {
+                "host_name": "GS_DM_2-5888",
+                "id": 3797,
+                "model_name": "Wireless",
+                "name": "GS_DM_2-5888",
+                "vendor": "Espressif Inc"
+            }
+        },
+        "c8:2b:96:56:db:0f": {
+            "device": {
+                "host_name": "GS_DM_1-6927",
+                "id": 3797,
+                "model_name": "Wireless",
+                "name": "GS_DM_1-6927",
+                "vendor": "Espressif Inc"
+            }
+        },
+        "c8:2b:96:56:dc:1c": {
+            "device": {
+                "host_name": "GS_DM_8-7196",
+                "id": 3797,
+                "model_name": "Wireless",
+                "name": "GS_DM_8-7196",
+                "vendor": "Espressif Inc"
+            }
+        },
+        "c8:2b:96:56:f0:fc": {
+            "device": {
+                "host_name": "GS_DM_9-4348",
+                "id": 3797,
+                "model_name": "Wireless",
+                "name": "GS_DM_9-4348",
+                "vendor": "Espressif Inc"
+            }
+        },
+        "c8:2b:96:56:f1:34": {
+            "device": {
+                "host_name": "GS_DM_12-4404",
+                "id": 3797,
+                "model_name": "Wireless",
+                "name": "GS_DM_12-4404",
+                "vendor": "Espressif Inc"
+            }
+        },
+        "c8:2b:96:5c:c9:e0": {
+            "device": {
+                "host_name": "GS_SW_13-2528",
+                "id": 3797,
+                "model_name": "Wireless",
+                "name": "GS_SW_13-2528",
+                "vendor": "Espressif Inc"
+            }
+        },
+        "c8:2b:96:5c:cd:3e": {
+            "device": {
+                "host_name": "GS_SW_19-3390",
+                "id": 3797,
+                "model_name": "Wireless",
+                "name": "GS_SW_19-3390",
+                "vendor": "Espressif Inc"
+            }
+        },
+        "c8:2b:96:5c:d0:a4": {
+            "device": {
+                "host_name": "GS_SW_1-4260",
+                "id": 3797,
+                "model_name": "Wireless",
+                "name": "GS_SW_1-4260",
+                "vendor": "Espressif Inc"
+            }
+        },
+        "c8:2b:96:5c:d1:38": {
+            "device": {
+                "host_name": "GS_SW_20-4408",
+                "id": 3797,
+                "model_name": "Wireless",
+                "name": "GS_SW_20-4408",
+                "vendor": "Espressif Inc"
+            }
+        },
+        "c8:2b:96:5c:d3:83": {
+            "device": {
+                "host_name": "GS_SW_11-4995",
+                "id": 3797,
+                "model_name": "Wireless",
+                "name": "GS_SW_11-4995",
+                "vendor": "Espressif Inc"
+            }
+        },
+        "c8:2b:96:5c:d6:66": {
+            "device": {
+                "host_name": "GS_SW_12-5734",
+                "id": 3797,
+                "model_name": "Wireless",
+                "name": "GS_SW_12-5734",
+                "vendor": "Espressif Inc"
+            }
+        },
+        "c8:2b:96:c2:5c:28": {
+            "device": {
+                "host_name": "GS_DM_10-7208",
+                "id": 3797,
+                "model_name": "Wireless",
+                "name": "GS_DM_10-7208",
+                "vendor": "Espressif Inc"
+            }
+        },
+        "c8:2b:96:c2:5c:f1": {
+            "device": {
+                "host_name": "GS_DM_5-7409",
+                "id": 3797,
+                "model_name": "Wireless",
+                "name": "GS_DM_5-7409",
+                "vendor": "Espressif Inc"
+            }
+        },
+        "c8:2b:96:c2:5d:e2": {
+            "device": {
+                "host_name": "GS_DM_13-7650",
+                "id": 3797,
+                "model_name": "Wireless",
+                "name": "GS_DM_13-7650",
+                "vendor": "Espressif Inc"
+            }
+        },
+        "d8:f1:5b:86:4c:c5": {
+            "device": {
+                "host_name": "LH_LB_10-3269",
+                "id": 3797,
+                "model_name": "Wireless",
+                "name": "LH_LB_10-3269",
+                "vendor": "Espressif Inc"
+            }
+        },
+        "d8:f1:5b:86:52:a6": {
+            "device": {
+                "host_name": "LH_LB_31-4774",
+                "id": 3797,
+                "model_name": "Wireless",
+                "name": "LH_LB_31-4774",
+                "vendor": "Espressif Inc"
+            }
+        },
+        "d8:f1:5b:86:7b:23": {
+            "device": {
+                "host_name": "LH_LB_19-6947",
+                "id": 3797,
+                "model_name": "Wireless",
+                "name": "LH_LB_19-6947",
+                "vendor": "Espressif Inc"
+            }
+        },
+        "d8:f1:5b:86:8c:73": {
+            "device": {
+                "host_name": "LH_LB_35-3187",
+                "id": 3797,
+                "model_name": "Wireless",
+                "name": "LH_LB_35-3187",
+                "vendor": "Espressif Inc"
+            }
+        },
+        "d8:f1:5b:b7:60:08": {
+            "device": {
+                "host_name": "BN_PL_03-0008",
+                "id": 3797,
+                "model_name": "Wireless",
+                "name": "BN_PL_03-0008",
+                "vendor": "Espressif Inc"
+            }
+        },
+        "d8:f1:5b:de:5c:3e": {
+            "device": {
+                "host_name": "GS_SW_2-7230",
+                "id": 3797,
+                "model_name": "Wireless",
+                "name": "GS_SW_2-7230",
+                "vendor": "Espressif Inc"
+            }
+        },
+        "d8:f1:5b:e2:24:a1": {
+            "device": {
+                "host_name": "LH_LB_4-1185",
+                "id": 3797,
+                "model_name": "Wireless",
+                "name": "LH_LB_4-1185",
+                "vendor": "Espressif Inc"
+            }
+        },
+        "d8:f1:5b:e2:65:94": {
+            "device": {
+                "host_name": "LH_LB_02-1428",
+                "id": 3797,
+                "model_name": "Wireless",
+                "name": "LH_LB_02-1428",
+                "vendor": "Espressif Inc"
+            }
+        },
+        "dc:4f:22:53:cc:ac": {
+            "device": {
+                "host_name": "LH_LBX_10-3244",
+                "id": 3797,
+                "model_name": "Wireless",
+                "name": "LH_LBX_10-3244",
+                "vendor": "Espressif Inc"
+            }
+        },
+        "dc:4f:22:57:30:c6": {
+            "device": {
+                "host_name": "LH_LBX_06-4294",
+                "id": 3797,
+                "model_name": "Wireless",
+                "name": "LH_LBX_06-4294",
+                "vendor": "Espressif Inc"
+            }
+        },
+        "dc:4f:22:b6:15:b1": {
+            "device": {
+                "host_name": "LH_LB_25-5553",
+                "id": 3797,
+                "model_name": "Wireless",
+                "name": "LH_LB_25-5553",
+                "vendor": "Espressif Inc"
+            }
+        },
+        "dc:4f:22:b6:15:c1": {
+            "device": {
+                "host_name": "LH_LB_23-5569",
+                "id": 3797,
+                "model_name": "Wireless",
+                "name": "LH_LB_23-5569",
+                "vendor": "Espressif Inc"
+            }
+        },
+        "dc:4f:22:b6:29:33": {
+            "device": {
+                "host_name": "LH_LB_26-2355",
+                "id": 3797,
+                "model_name": "Wireless",
+                "name": "LH_LB_26-2355",
+                "vendor": "Espressif Inc"
+            }
+        },
+        "dc:4f:22:b7:0b:6e": {
+            "device": {
+                "host_name": "LH_LB_27-2926",
+                "id": 3797,
+                "model_name": "Wireless",
+                "name": "LH_LB_27-2926",
+                "vendor": "Espressif Inc"
+            }
+        },
+        "dc:4f:22:bf:6c:7d": {
+            "device": {
+                "host_name": "BN_PL_02-3197",
+                "id": 3797,
+                "model_name": "Wireless",
+                "name": "BN_PL_02-3197",
+                "vendor": "Espressif Inc"
+            }
+        },
+        "f0:f0:a4:7c:77:2d": {
+            "device": {
+                "id": 3797,
+                "model_name": "Wireless",
+                "name": "Amazon Tech Inc",
+                "vendor": "Amazon Tech Inc"
+            }
+        },
+        "f0:f0:a4:f1:22:f4": {
+            "device": {
+                "id": 3797,
+                "model_name": "Wireless",
+                "name": "Amazon Tech Inc",
+                "vendor": "Amazon Tech Inc"
+            }
+        },
+        "f4:cf:a2:01:6c:1d": {
+            "device": {
+                "host_name": "GS_DM_7-3101",
+                "id": 3797,
+                "model_name": "Wireless",
+                "name": "GS_DM_7-3101",
+                "vendor": "Espressif Inc"
+            }
+        },
+        "fc:77:74:a0:a0:78": {
+            "bonjour": {
+                "ip": "192.168.182.3",
+                "services": [
+                    "3.20.5.70-LAPTOP-CFOVHIEG.a28e454a-3f69-4c3e-bc93-ea131cd69721._nvstream_dbd._tcp.local",
+                    "LAPTOP-CFOVHIEG.local",
+                    "_nvstream_dbd._tcp.local"
+                ]
+            },
+            "device": {
+                "host_name": "LAPTOP-CFOVHIEG",
+                "id": 3797,
+                "model_name": "Wireless",
+                "name": "LAPTOP-CFOVHIEG",
+                "vendor": "Intel Corp"
+            }
+        },
+        "fe:16:5e:da:96:1c": {
+            "device": {
+                "host_name": "Ghost",
+                "id": 3797,
+                "model_name": "Wireless",
+                "name": "Ghost"
+            }
+        }
+    }
+]
