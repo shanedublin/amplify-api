@@ -9,6 +9,8 @@ var ip = process.env.IP;
 var routerUrl = "http://" + ip;
 var password = process.env.PASSWORD;
 
+
+
 app.get('/', function (req, res) {
    res.redirect('/index.html');
 })
@@ -70,9 +72,18 @@ app.get('/api',async function(req, res, next){
 });
 
 
-var server = app.listen(port, function () {
-   var host = server.address().address
-   var port = server.address().port
-   
-   console.log("Example app listening at http://%s:%s", host, port)
-})
+
+
+if(ip == null || ip == ""){
+  console.log('IP env var was null or empty')
+} else if (password == null || password == ""){
+  console.error('PASSWORD env var was null or empty')
+} else {
+  var server = app.listen(port, function () {
+    var host = server.address().address
+    var port = server.address().port
+    
+    console.log("Example app listening at http://%s:%s", host, port)
+ })
+ 
+}
