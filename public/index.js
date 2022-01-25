@@ -68,7 +68,7 @@ function createButton(ip) {
 }
 
 function copy(str) {
-    alert('TODO lmao')
+    navigator.clipboard.writeText(str);
 }
 
 function search() {
